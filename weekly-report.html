@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Tech Funding Wire - Weekly Report</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            color: white;
+            padding: 40px 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #1e1e3f 0%, #2a2a4a 100%);
+            border-radius: 20px;
+            padding: 50px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 40px;
+        }
+
+        .badge {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .week-range {
+            text-align: right;
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .week-range .dates {
+            font-size: 16px;
+            font-weight: 600;
+            color: white;
+            margin-top: 5px;
+        }
+
+        .hero {
+            margin-bottom: 40px;
+            text-align: center;
+        }
+
+        .week-label {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #667eea;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+
+        .title {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .title span {
+            color: #667eea;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.6);
+            margin-bottom: 30px;
+        }
+
+        .total-amount {
+            font-size: 80px;
+            font-weight: 900;
+            line-height: 1;
+            background: linear-gradient(135deg, #fff 0%, #a8c0ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 5px;
+        }
+
+        .total-label {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 40px;
+        }
+
+        .stat-card {
+            background: rgba(102, 126, 234, 0.1);
+            border: 1px solid rgba(102, 126, 234, 0.3);
+            border-radius: 12px;
+            padding: 25px;
+            text-align: center;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-3px);
+            background: rgba(102, 126, 234, 0.15);
+            border-color: rgba(102, 126, 234, 0.5);
+        }
+
+        .stat-icon {
+            font-size: 28px;
+            margin-bottom: 12px;
+        }
+
+        .stat-value {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.6);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .section-title {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .toggle-buttons {
+            display: flex;
+            gap: 8px;
+        }
+
+        .toggle-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 6px 14px;
+            border-radius: 6px;
+            font-size: 11px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .toggle-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .toggle-btn.active {
+            background: #667eea;
+            border-color: #667eea;
+        }
+
+        .top-deals-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .deal-card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .deal-card:hover {
+            transform: translateY(-3px);
+            background: rgba(255, 255, 255, 0.08);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .deal-card:nth-child(1) {
+            border-color: #FFD700;
+            background: rgba(255, 215, 0, 0.1);
+        }
+
+        .deal-card:nth-child(2) {
+            border-color: #C0C0C0;
+            background: rgba(192, 192, 192, 0.1);
+        }
+
+        .deal-card:nth-child(3) {
+            border-color: #CD7F32;
+            background: rgba(205, 127, 50, 0.1);
+        }
+
+        .deal-rank {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            font-size: 20px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.3);
+        }
+
+        .deal-company {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            padding-right: 30px;
+        }
+
+        .deal-amount {
+            font-size: 24px;
+            font-weight: 700;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+
+        .deal-sector {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.5);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .bar-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            gap: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .bar-item:hover {
+            transform: translateX(3px);
+        }
+
+        .bar-label {
+            width: 180px;
+            text-align: right;
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .bar-wrapper {
+            flex: 1;
+            position: relative;
+        }
+
+        .bar-bg {
+            width: 100%;
+            height: 26px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 5px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            padding: 0 10px;
+            font-size: 12px;
+            font-weight: 600;
+            transition: width 1s ease;
+        }
+
+        .bar-count {
+            width: 40px;
+            text-align: center;
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .footer-brand {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .footer-logo {
+            width: 36px;
+            height: 36px;
+            background: #667eea;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+        }
+
+        .footer-text h4 {
+            font-size: 14px;
+            margin-bottom: 3px;
+        }
+
+        .footer-text p {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .footer-link {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-decoration: none;
+            color: white;
+            transition: all 0.3s ease;
+        }
+
+        .footer-link:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .empty-state-icon {
+            font-size: 64px;
+            margin-bottom: 20px;
+            opacity: 0.3;
+        }
+
+        .empty-state-text {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        .empty-state-hint {
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="badge">
+                <span>🇫🇷</span>
+                WEEKLY FUNDING WIRE
+            </div>
+            <div class="week-range">
+                <div>Week of</div>
+                <div class="dates" id="date-range">Jan 13-19, 2025</div>
+            </div>
+        </div>
+
+        <div class="hero">
+            <div class="week-label">THIS WEEK'S TOTAL</div>
+            <div class="total-amount" id="total-amount">€0.0M</div>
+            <div class="total-label" id="deal-count-label">0 DEALS</div>
+            <h1 class="title">French Tech <span>Funding Wire</span></h1>
+            <p class="subtitle">Your weekly snapshot of French startup funding</p>
+        </div>
+
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-icon">💰</div>
+                <div class="stat-value" id="stat-deals">0</div>
+                <div class="stat-label">New Deals</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">📊</div>
+                <div class="stat-value" id="stat-average">€0.0M</div>
+                <div class="stat-label">Average Round</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">🎯</div>
+                <div class="stat-value" id="stat-sectors">0</div>
+                <div class="stat-label">Active Sectors</div>
+            </div>
+        </div>
+
+        <div class="section" id="top-deals-section">
+            <div class="section-header">
+                <div class="section-title">🏆 TOP DEALS THIS WEEK</div>
+            </div>
+            <div class="top-deals-grid" id="deals-container"></div>
+        </div>
+
+        <div class="section" id="sectors-section">
+            <div class="section-header">
+                <div class="section-title">FUNDING BY SECTOR</div>
+                <div class="toggle-buttons">
+                    <button class="toggle-btn active" id="btn-amount" onclick="toggleView('amount')">💰 Amount</button>
+                    <button class="toggle-btn" id="btn-count" onclick="toggleView('count')">👥 Count</button>
+                </div>
+            </div>
+            <div id="bars-container"></div>
+        </div>
+
+        <div class="footer">
+            <div class="footer-brand">
+                <div class="footer-logo">🇫🇷</div>
+                <div class="footer-text">
+                    <h4>French Tech Funding Wire</h4>
+                    <p>Weekly startup funding newsletter</p>
+                </div>
+            </div>
+            <a href="index.html" class="footer-link">View All Deals</a>
+        </div>
+    </div>
+
+    <script>
+        let currentView = 'amount';
+        let data = null;
+
+        // Color palette for sectors (matching annual report)
+        const sectorColors = {
+            'AI & Machine Learning': '#667eea',
+            'HealthTech & BioTech': '#f093fb',
+            'CleanTech & Energy': '#4facfe',
+            'FinTech': '#fa709a',
+            'Gaming': '#8b5cf6',
+            'DeepTech & Hardware': '#fee140',
+            'SpaceTech & Aerospace': '#30cfd0',
+            'AgriTech & FoodTech': '#a8edea',
+            'SaaS & Enterprise': '#fed6e3',
+            'E-commerce & Retail': '#c471f5',
+            'Mobility & Transportation': '#43e97b',
+            'Other': '#9b9b9b',
+            'Cybersecurity': '#ff6b6b',
+            'PropTech & Real Estate': '#4ecdc4'
+        };
+
+        async function loadData() {
+            try {
+                const response = await fetch('weekly-data.json');
+                const rawData = await response.json();
+
+                // Calculate date range (last 7 days from today or from data)
+                const dates = rawData
+                    .filter(c => c.date)
+                    .map(c => new Date(c.date))
+                    .sort((a, b) => b - a);
+
+                if (dates.length > 0) {
+                    const latest = dates[0];
+                    const earliest = dates[dates.length - 1];
+                    document.getElementById('date-range').textContent =
+                        formatDateRange(earliest, latest);
+                }
+
+                // Calculate statistics
+                const totalCompanies = rawData.length;
+                const dealsWithAmount = rawData.filter(c => c.amount);
+                const totalFunding = dealsWithAmount.reduce((sum, c) => sum + c.amount, 0);
+                const avgRound = dealsWithAmount.length > 0
+                    ? totalFunding / dealsWithAmount.length
+                    : 0;
+
+                // Sector analysis
+                const sectorData = {};
+                rawData.forEach(c => {
+                    const sectors = c.sectors || ['Other'];
+                    sectors.forEach(sector => {
+                        if (!sectorData[sector]) {
+                            sectorData[sector] = { funding: 0, count: 0 };
+                        }
+                        sectorData[sector].funding += c.amount || 0;
+                        sectorData[sector].count++;
+                    });
+                });
+
+                const sectors = Object.entries(sectorData)
+                    .map(([name, stats]) => ({
+                        name,
+                        funding: stats.funding,
+                        count: stats.count,
+                        percentage: totalFunding > 0 ? (stats.funding / totalFunding * 100) : 0
+                    }))
+                    .sort((a, b) => b.funding - a.funding);
+
+                // Top deals
+                const topDeals = dealsWithAmount
+                    .sort((a, b) => b.amount - a.amount)
+                    .slice(0, 6);
+
+                data = {
+                    totalCompanies,
+                    totalFunding,
+                    avgRound,
+                    sectors,
+                    topDeals
+                };
+
+                renderAll();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                showEmptyState();
+            }
+        }
+
+        function renderAll() {
+            if (!data || data.totalCompanies === 0) {
+                showEmptyState();
+                return;
+            }
+
+            // Update hero stats
+            document.getElementById('total-amount').textContent = formatAmount(data.totalFunding);
+            document.getElementById('deal-count-label').textContent =
+                `${data.totalCompanies} DEAL${data.totalCompanies !== 1 ? 'S' : ''}`;
+
+            document.getElementById('stat-deals').textContent = data.totalCompanies;
+            document.getElementById('stat-average').textContent =
+                data.avgRound > 0 ? '€' + data.avgRound.toFixed(1) + 'M' : 'N/A';
+            document.getElementById('stat-sectors').textContent = data.sectors.length;
+
+            renderDeals();
+            renderBars();
+        }
+
+        function renderDeals() {
+            const container = document.getElementById('deals-container');
+
+            if (data.topDeals.length === 0) {
+                container.innerHTML = '<div class="empty-state-text">No deals this week</div>';
+                return;
+            }
+
+            container.innerHTML = data.topDeals.map((deal, index) => {
+                const sector = deal.sectors && deal.sectors.length > 0
+                    ? deal.sectors[0]
+                    : 'Other';
+
+                return `
+                    <div class="deal-card">
+                        <div class="deal-rank">${index + 1}</div>
+                        <div class="deal-company">${deal.company}</div>
+                        <div class="deal-amount">€${deal.amount}M</div>
+                        <div class="deal-sector">${sector}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function renderBars() {
+            const container = document.getElementById('bars-container');
+
+            if (data.sectors.length === 0) {
+                container.innerHTML = '<div class="empty-state-text">No sector data available</div>';
+                return;
+            }
+
+            const maxValue = currentView === 'amount'
+                ? Math.max(...data.sectors.map(s => s.funding))
+                : Math.max(...data.sectors.map(s => s.count));
+
+            container.innerHTML = data.sectors.map(sector => {
+                const value = currentView === 'amount' ? sector.funding : sector.count;
+                const width = maxValue > 0 ? (value / maxValue * 100) : 0;
+                const displayValue = currentView === 'amount'
+                    ? formatAmount(value)
+                    : value;
+
+                return `
+                    <div class="bar-item">
+                        <div class="bar-label">${sector.name}</div>
+                        <div class="bar-wrapper">
+                            <div class="bar-bg">
+                                <div class="bar-fill" style="width: ${width}%; background: ${sectorColors[sector.name] || '#667eea'};">
+                                    ${displayValue}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bar-count">${sector.count}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function formatAmount(amount) {
+            if (amount >= 1000) {
+                return '€' + (amount / 1000).toFixed(1) + 'B';
+            }
+            return '€' + amount.toFixed(1) + 'M';
+        }
+
+        function formatDateRange(start, end) {
+            const options = { month: 'short', day: 'numeric' };
+            const startStr = start.toLocaleDateString('en-US', options);
+            const endStr = end.toLocaleDateString('en-US', { ...options, year: 'numeric' });
+            return `${startStr} - ${endStr}`;
+        }
+
+        function toggleView(view) {
+            currentView = view;
+            document.getElementById('btn-amount').classList.toggle('active', view === 'amount');
+            document.getElementById('btn-count').classList.toggle('active', view === 'count');
+            renderBars();
+        }
+
+        function showEmptyState() {
+            const container = document.querySelector('.container');
+            container.innerHTML = `
+                <div class="empty-state">
+                    <div class="empty-state-icon">📊</div>
+                    <div class="empty-state-text">No data available</div>
+                    <div class="empty-state-hint">
+                        Please create a weekly-data.json file with your funding data
+                    </div>
+                </div>
+            `;
+        }
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>

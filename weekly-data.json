@@ -1,0 +1,38 @@
+[
+  {
+    "company": "Mistral AI",
+    "amount": 468,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2025-01-15"
+  },
+  {
+    "company": "Doctolib",
+    "amount": 150,
+    "sectors": ["HealthTech & BioTech"],
+    "date": "2025-01-14"
+  },
+  {
+    "company": "Qonto",
+    "amount": 486,
+    "sectors": ["FinTech"],
+    "date": "2025-01-13"
+  },
+  {
+    "company": "Back Market",
+    "amount": 120,
+    "sectors": ["E-commerce & Retail", "CleanTech & Energy"],
+    "date": "2025-01-13"
+  },
+  {
+    "company": "Contentsquare",
+    "amount": 500,
+    "sectors": ["SaaS & Enterprise"],
+    "date": "2025-01-16"
+  },
+  {
+    "company": "Ledger",
+    "amount": 108,
+    "sectors": ["FinTech", "Cybersecurity"],
+    "date": "2025-01-17"
+  }
+]
