@@ -1,38 +1,86 @@
 [
   {
-    "company": "Mistral AI",
-    "amount": 468,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2025-01-15"
+    "company": "Harmattan AI",
+    "amount": 184,
+    "sectors": ["AI & Machine Learning", "SpaceTech & Aerospace", "DeepTech & Hardware"],
+    "date": "2025-01-17"
   },
   {
-    "company": "Doctolib",
-    "amount": 150,
+    "company": "FineHeart",
+    "amount": 35,
     "sectors": ["HealthTech & BioTech"],
-    "date": "2025-01-14"
-  },
-  {
-    "company": "Qonto",
-    "amount": 486,
-    "sectors": ["FinTech"],
-    "date": "2025-01-13"
-  },
-  {
-    "company": "Back Market",
-    "amount": 120,
-    "sectors": ["E-commerce & Retail", "CleanTech & Energy"],
-    "date": "2025-01-13"
-  },
-  {
-    "company": "Contentsquare",
-    "amount": 500,
-    "sectors": ["SaaS & Enterprise"],
     "date": "2025-01-16"
   },
   {
-    "company": "Ledger",
-    "amount": 108,
-    "sectors": ["FinTech", "Cybersecurity"],
+    "company": "SunLib",
+    "amount": 25,
+    "sectors": ["CleanTech & Energy", "FinTech"],
+    "date": "2025-01-16"
+  },
+  {
+    "company": "Enodia Therapeutics",
+    "amount": 20.7,
+    "sectors": ["AI & Machine Learning", "HealthTech & BioTech"],
+    "date": "2025-01-15"
+  },
+  {
+    "company": "MYCOPHYTO",
+    "amount": 16,
+    "sectors": ["AgriTech & FoodTech", "CleanTech & Energy"],
+    "date": "2025-01-15"
+  },
+  {
+    "company": "Equitable Earth",
+    "amount": 12.6,
+    "sectors": ["AgriTech & FoodTech", "CleanTech & Energy"],
+    "date": "2025-01-14"
+  },
+  {
+    "company": "Kepplair Evolution",
+    "amount": 5,
+    "sectors": ["SpaceTech & Aerospace", "CleanTech & Energy"],
+    "date": "2025-01-14"
+  },
+  {
+    "company": "Cementic",
+    "amount": 4,
+    "sectors": ["HealthTech & BioTech"],
     "date": "2025-01-17"
+  },
+  {
+    "company": "Revox",
+    "amount": 2.76,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2025-01-13"
+  },
+  {
+    "company": "Sweetech",
+    "amount": 2.25,
+    "sectors": ["HealthTech & BioTech"],
+    "date": "2025-01-13"
+  },
+  {
+    "company": "Viti-Tunnel",
+    "amount": 2,
+    "sectors": ["AgriTech & FoodTech", "CleanTech & Energy"],
+    "date": "2025-01-15"
+  },
+  {
+    "company": "Campsider",
+    "amount": 1.5,
+    "sectors": ["E-commerce & Retail"],
+    "date": "2025-01-16"
+  },
+  {
+    "company": "Gamevestor",
+    "amount": 0.55,
+    "sectors": ["Gaming", "FinTech"],
+    "date": "2025-01-14"
+  },
+  {
+    "company": "Smartphone iD",
+    "amount": 0.2,
+    "sectors": ["Cybersecurity", "AI & Machine Learning"],
+    "date": "2025-01-13"
   }
 ]
