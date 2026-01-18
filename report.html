@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Tech Funding Report 2025</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            color: white;
+            padding: 40px 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #1e1e3f 0%, #2a2a4a 100%);
+            border-radius: 20px;
+            padding: 60px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 60px;
+        }
+
+        .badge {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .source {
+            text-align: right;
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .hero {
+            margin-bottom: 60px;
+        }
+
+        .total-amount {
+            font-size: 120px;
+            font-weight: 900;
+            line-height: 1;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, #fff 0%, #a8c0ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .total-label {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: #667eea;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .title {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 30px;
+        }
+
+        .title span {
+            color: #667eea;
+        }
+
+        .description {
+            font-size: 16px;
+            line-height: 1.8;
+            color: rgba(255, 255, 255, 0.7);
+            max-width: 600px;
+        }
+
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-bottom: 60px;
+        }
+
+        .stat-card {
+            background: rgba(102, 126, 234, 0.1);
+            border: 1px solid rgba(102, 126, 234, 0.3);
+            border-radius: 16px;
+            padding: 30px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            background: rgba(102, 126, 234, 0.15);
+            border-color: rgba(102, 126, 234, 0.5);
+        }
+
+        .stat-icon {
+            font-size: 32px;
+            margin-bottom: 15px;
+        }
+
+        .stat-value {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.6);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .section-title {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: rgba(255, 255, 255, 0.5);
+            margin-bottom: 30px;
+        }
+
+        .funding-bars {
+            margin-bottom: 60px;
+        }
+
+        .bar-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            gap: 15px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .bar-item:hover {
+            transform: translateX(5px);
+        }
+
+        .bar-label {
+            width: 200px;
+            text-align: right;
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .bar-wrapper {
+            flex: 1;
+            position: relative;
+        }
+
+        .bar-bg {
+            width: 100%;
+            height: 30px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 6px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            padding: 0 12px;
+            font-size: 13px;
+            font-weight: 600;
+            transition: width 1s ease;
+        }
+
+        .bar-count {
+            width: 50px;
+            text-align: center;
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .top-deals {
+            margin-bottom: 60px;
+        }
+
+        .deals-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .deal-card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .deal-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.08);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .deal-rank {
+            font-size: 24px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.3);
+            margin-bottom: 10px;
+        }
+
+        .deal-card:nth-child(1) { border-color: #FFD700; background: rgba(255, 215, 0, 0.1); }
+        .deal-card:nth-child(2) { border-color: #C0C0C0; background: rgba(192, 192, 192, 0.1); }
+        .deal-card:nth-child(3) { border-color: #CD7F32; background: rgba(205, 127, 50, 0.1); }
+
+        .deal-company {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 5px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .deal-amount {
+            font-size: 20px;
+            font-weight: 700;
+            color: #667eea;
+        }
+
+        .highlight-box {
+            background: rgba(102, 126, 234, 0.1);
+            border: 1px solid rgba(102, 126, 234, 0.3);
+            border-radius: 16px;
+            padding: 30px;
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+
+        .highlight-icon {
+            font-size: 64px;
+            filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));
+        }
+
+        .highlight-content h3 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .highlight-content p {
+            font-size: 15px;
+            line-height: 1.6;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .highlight-content strong {
+            color: #667eea;
+            font-weight: 700;
+        }
+
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 40px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .footer-brand {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .footer-logo {
+            width: 40px;
+            height: 40px;
+            background: #667eea;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+
+        .footer-text h4 {
+            font-size: 16px;
+            margin-bottom: 3px;
+        }
+
+        .footer-text p {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .footer-cta {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .toggle-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .toggle-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .toggle-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .toggle-btn.active {
+            background: #667eea;
+            border-color: #667eea;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="badge">
+                <span>🇫🇷</span>
+                FRENCH TECH FUNDING REPORT
+            </div>
+            <div class="source">
+                Data: French Tech Journal / 2025<br>
+                frenchtechjournal.com
+            </div>
+        </div>
+
+        <div class="hero">
+            <div class="total-label">TOTAL RAISED</div>
+            <div class="total-amount" id="total-amount">€8.1B</div>
+            <h1 class="title">FRENCH TECH FUNDING <span>2025</span></h1>
+            <p class="description" id="hero-description">
+                673 companies raised funding across 13 sectors, with AI & Machine Learning dominating at €4.0B—representing 50% of all investment.
+            </p>
+        </div>
+
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-icon">🚀</div>
+                <div class="stat-value" id="stat-companies">673</div>
+                <div class="stat-label">Companies Funded</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">💰</div>
+                <div class="stat-value" id="stat-average">€12.0M</div>
+                <div class="stat-label">Average Round</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">📊</div>
+                <div class="stat-value" id="stat-sectors">13</div>
+                <div class="stat-label">Sectors</div>
+            </div>
+        </div>
+
+        <div class="funding-bars">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                <div class="section-title">FUNDING BY SECTOR</div>
+                <div class="toggle-buttons">
+                    <button class="toggle-btn active" id="btn-amount" onclick="toggleView('amount')">💰 Funding Amount</button>
+                    <button class="toggle-btn" id="btn-count" onclick="toggleView('count')">👥 # Companies</button>
+                </div>
+            </div>
+            <div id="bars-container"></div>
+        </div>
+
+        <div class="top-deals">
+            <div class="section-title">🏆 TOP 10 DEALS OF 2025</div>
+            <div class="deals-grid" id="deals-container"></div>
+        </div>
+
+        <div class="highlight-box">
+            <div class="highlight-icon">🤖</div>
+            <div class="highlight-content">
+                <h3>AI Dominates 2025</h3>
+                <p id="ai-stats">
+                    AI & Machine Learning captured <strong>50%</strong> of all funding with 254 companies raising <strong>€4.0B</strong>. This represents a significant concentration in artificial intelligence and machine learning technologies across the French tech ecosystem.
+                </p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="footer-brand">
+                <div class="footer-logo">🇫🇷</div>
+                <div class="footer-text">
+                    <h4>French Tech Journal</h4>
+                    <p>Covering France's startup ecosystem</p>
+                </div>
+            </div>
+            <div class="footer-cta">2025 YEAR IN REVIEW</div>
+        </div>
+    </div>
+
+    <script>
+        let currentView = 'amount';
+        let data = null;
+
+        // Color palette for sectors
+        const sectorColors = {
+            'AI & Machine Learning': '#667eea',
+            'HealthTech & BioTech': '#f093fb',
+            'CleanTech & Energy': '#4facfe',
+            'FinTech': '#fa709a',
+            'Gaming': '#8b5cf6',
+            'DeepTech & Hardware': '#fee140',
+            'SpaceTech & Aerospace': '#30cfd0',
+            'AgriTech & FoodTech': '#a8edea',
+            'SaaS & Enterprise': '#fed6e3',
+            'E-commerce & Retail': '#c471f5',
+            'Mobility & Transportation': '#43e97b',
+            'Other': '#9b9b9b',
+            'Cybersecurity': '#ff6b6b',
+            'PropTech & Real Estate': '#4ecdc4'
+        };
+
+        async function loadData() {
+            const response = await fetch('funding-data.json');
+            const rawData = await response.json();
+
+            // Calculate statistics
+            const totalCompanies = rawData.length;
+            const totalFunding = rawData.reduce((sum, c) => sum + (c.amount || 0), 0);
+            const avgRound = totalFunding / rawData.filter(c => c.amount).length;
+
+            // Sector analysis
+            const sectorData = {};
+            rawData.forEach(c => {
+                const sectors = c.sectors || [];
+                sectors.forEach(sector => {
+                    if (!sectorData[sector]) {
+                        sectorData[sector] = { funding: 0, count: 0 };
+                    }
+                    sectorData[sector].funding += c.amount || 0;
+                    sectorData[sector].count++;
+                });
+            });
+
+            const sectors = Object.entries(sectorData)
+                .map(([name, stats]) => ({
+                    name,
+                    funding: stats.funding,
+                    count: stats.count,
+                    percentage: (stats.funding / totalFunding * 100)
+                }))
+                .sort((a, b) => b.funding - a.funding);
+
+            // Top 10 deals
+            const topDeals = rawData
+                .filter(c => c.amount)
+                .sort((a, b) => b.amount - a.amount)
+                .slice(0, 10);
+
+            data = {
+                totalCompanies,
+                totalFunding,
+                avgRound,
+                sectors,
+                topDeals
+            };
+
+            renderAll();
+        }
+
+        function renderAll() {
+            // Update hero stats
+            document.getElementById('total-amount').textContent = formatAmount(data.totalFunding);
+            document.getElementById('stat-companies').textContent = data.totalCompanies;
+            document.getElementById('stat-average').textContent = '€' + data.avgRound.toFixed(1) + 'M';
+            document.getElementById('stat-sectors').textContent = data.sectors.length;
+
+            // Update AI stats
+            const aiSector = data.sectors.find(s => s.name === 'AI & Machine Learning');
+            if (aiSector) {
+                const aiPercentage = (aiSector.funding / data.totalFunding * 100).toFixed(0);
+                document.getElementById('ai-stats').innerHTML = `
+                    AI & Machine Learning captured <strong>${aiPercentage}%</strong> of all funding with ${aiSector.count} companies raising <strong>${formatAmount(aiSector.funding)}</strong>. This represents a significant concentration in artificial intelligence and machine learning technologies across the French tech ecosystem.
+                `;
+
+                document.getElementById('hero-description').textContent =
+                    `${data.totalCompanies} companies raised funding across ${data.sectors.length} sectors, with AI & Machine Learning dominating at ${formatAmount(aiSector.funding)}—representing ${aiPercentage}% of all investment.`;
+            }
+
+            renderBars();
+            renderDeals();
+        }
+
+        function renderBars() {
+            const container = document.getElementById('bars-container');
+            const maxValue = currentView === 'amount'
+                ? Math.max(...data.sectors.map(s => s.funding))
+                : Math.max(...data.sectors.map(s => s.count));
+
+            container.innerHTML = data.sectors.map(sector => {
+                const value = currentView === 'amount' ? sector.funding : sector.count;
+                const width = (value / maxValue * 100);
+                const displayValue = currentView === 'amount'
+                    ? formatAmount(value)
+                    : value;
+
+                return `
+                    <div class="bar-item" onclick="filterBySector('${sector.name}')">
+                        <div class="bar-label">${sector.name}</div>
+                        <div class="bar-wrapper">
+                            <div class="bar-bg">
+                                <div class="bar-fill" style="width: ${width}%; background: ${sectorColors[sector.name] || '#667eea'};">
+                                    ${displayValue}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bar-count">${sector.count}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function renderDeals() {
+            const container = document.getElementById('deals-container');
+            container.innerHTML = data.topDeals.map((deal, index) => `
+                <div class="deal-card" onclick="showDealDetails('${deal.company}')">
+                    <div class="deal-rank">${index + 1}</div>
+                    <div class="deal-company">${deal.company}</div>
+                    <div class="deal-amount">€${deal.amount}M</div>
+                </div>
+            `).join('');
+        }
+
+        function formatAmount(amount) {
+            if (amount >= 1000) {
+                return '€' + (amount / 1000).toFixed(1) + 'B';
+            }
+            return '€' + amount.toFixed(1) + 'M';
+        }
+
+        function toggleView(view) {
+            currentView = view;
+            document.getElementById('btn-amount').classList.toggle('active', view === 'amount');
+            document.getElementById('btn-count').classList.toggle('active', view === 'count');
+            renderBars();
+        }
+
+        function filterBySector(sector) {
+            // Navigate to main page with sector filter
+            window.location.href = `index.html?sector=${encodeURIComponent(sector)}`;
+        }
+
+        function showDealDetails(company) {
+            // Navigate to main page filtered by company
+            window.location.href = `index.html?search=${encodeURIComponent(company)}`;
+        }
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>
