@@ -1,86 +1,80 @@
 [
   {
-    "company": "Harmattan AI",
-    "amount": 184,
-    "sectors": ["AI & Machine Learning", "SpaceTech & Aerospace", "DeepTech & Hardware"],
-    "date": "2025-01-17"
+    "company": "Pennylane",
+    "amount": 175,
+    "sectors": ["FinTech", "AI & Machine Learning"],
+    "date": "2025-01-20"
   },
   {
-    "company": "FineHeart",
-    "amount": 35,
-    "sectors": ["HealthTech & BioTech"],
-    "date": "2025-01-16"
-  },
-  {
-    "company": "SunLib",
-    "amount": 25,
-    "sectors": ["CleanTech & Energy", "FinTech"],
-    "date": "2025-01-16"
-  },
-  {
-    "company": "Enodia Therapeutics",
-    "amount": 20.7,
-    "sectors": ["AI & Machine Learning", "HealthTech & BioTech"],
-    "date": "2025-01-15"
-  },
-  {
-    "company": "MYCOPHYTO",
-    "amount": 16,
-    "sectors": ["AgriTech & FoodTech", "CleanTech & Energy"],
-    "date": "2025-01-15"
-  },
-  {
-    "company": "Equitable Earth",
-    "amount": 12.6,
-    "sectors": ["AgriTech & FoodTech", "CleanTech & Energy"],
-    "date": "2025-01-14"
-  },
-  {
-    "company": "Kepplair Evolution",
-    "amount": 5,
-    "sectors": ["SpaceTech & Aerospace", "CleanTech & Energy"],
-    "date": "2025-01-14"
-  },
-  {
-    "company": "Cementic",
-    "amount": 4,
-    "sectors": ["HealthTech & BioTech"],
-    "date": "2025-01-17"
-  },
-  {
-    "company": "Revox",
-    "amount": 2.76,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2025-01-13"
-  },
-  {
-    "company": "Sweetech",
-    "amount": 2.25,
-    "sectors": ["HealthTech & BioTech"],
-    "date": "2025-01-13"
-  },
-  {
-    "company": "Viti-Tunnel",
-    "amount": 2,
-    "sectors": ["AgriTech & FoodTech", "CleanTech & Energy"],
-    "date": "2025-01-15"
-  },
-  {
-    "company": "Campsider",
-    "amount": 1.5,
-    "sectors": ["E-commerce & Retail"],
-    "date": "2025-01-16"
-  },
-  {
-    "company": "Gamevestor",
-    "amount": 0.55,
-    "sectors": ["Gaming", "FinTech"],
-    "date": "2025-01-14"
-  },
-  {
-    "company": "Smartphone iD",
-    "amount": 0.2,
+    "company": "Stoïk",
+    "amount": 20,
     "sectors": ["Cybersecurity", "AI & Machine Learning"],
-    "date": "2025-01-13"
+    "date": "2025-01-21"
+  },
+  {
+    "company": "ErVimmune",
+    "amount": 17,
+    "sectors": ["HealthTech & BioTech"],
+    "date": "2025-01-22"
+  },
+  {
+    "company": "Symbiotic Security",
+    "amount": 9.2,
+    "sectors": ["Cybersecurity", "AI & Machine Learning"],
+    "date": "2025-01-20"
+  },
+  {
+    "company": "Eclaircie",
+    "amount": 6.9,
+    "sectors": ["CleanTech & Energy", "AgriTech & FoodTech"],
+    "date": "2025-01-21"
+  },
+  {
+    "company": "AI Verse",
+    "amount": 5,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2025-01-22"
+  },
+  {
+    "company": "The Sanctuary Group",
+    "amount": 4.7,
+    "sectors": ["E-commerce & Retail"],
+    "date": "2025-01-23"
+  },
+  {
+    "company": "Neo Xperiences",
+    "amount": 3.6,
+    "sectors": ["E-commerce & Retail"],
+    "date": "2025-01-22"
+  },
+  {
+    "company": "Anodine",
+    "amount": 2.5,
+    "sectors": ["DeepTech & Hardware", "CleanTech & Energy"],
+    "date": "2025-01-23"
+  },
+  {
+    "company": "Notom",
+    "amount": 2,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2025-01-21"
+  },
+  {
+    "company": "Windcoop",
+    "amount": 1.4,
+    "sectors": ["CleanTech & Energy"],
+    "date": "2025-01-20"
+  },
+  {
+    "company": "checkDPE",
+    "amount": 1.2,
+    "sectors": ["CleanTech & Energy", "AI & Machine Learning", "PropTech & Real Estate"],
+    "date": "2025-01-23"
+  },
+  {
+    "company": "Obside",
+    "amount": 0.5,
+    "sectors": ["FinTech", "AI & Machine Learning"],
+    "date": "2025-01-22"
   }
 ]
