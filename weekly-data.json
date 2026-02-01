@@ -1,80 +1,62 @@
 [
   {
-    "company": "Pennylane",
-    "amount": 175,
-    "sectors": ["FinTech", "AI & Machine Learning"],
-    "date": "2025-01-20"
+    "company": "Aviwell",
+    "amount": 11,
+    "sectors": ["AgriTech", "FoodTech", "HealthTech", "BioTech", "AI & Machine Learning"],
+    "date": "2025-01-27"
   },
   {
-    "company": "Stoïk",
-    "amount": 20,
-    "sectors": ["Cybersecurity", "AI & Machine Learning"],
-    "date": "2025-01-21"
+    "company": "Twin",
+    "amount": 8.4,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2025-01-27"
   },
   {
-    "company": "ErVimmune",
-    "amount": 17,
-    "sectors": ["HealthTech & BioTech"],
-    "date": "2025-01-22"
-  },
-  {
-    "company": "Symbiotic Security",
-    "amount": 9.2,
-    "sectors": ["Cybersecurity", "AI & Machine Learning"],
-    "date": "2025-01-20"
-  },
-  {
-    "company": "Eclaircie",
-    "amount": 6.9,
-    "sectors": ["CleanTech & Energy", "AgriTech & FoodTech"],
-    "date": "2025-01-21"
-  },
-  {
-    "company": "AI Verse",
+    "company": "Atlas V Group",
     "amount": 5,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2025-01-22"
+    "sectors": ["Gaming"],
+    "date": "2025-01-28"
   },
   {
-    "company": "The Sanctuary Group",
-    "amount": 4.7,
+    "company": "Recupere Metals",
+    "amount": 5,
+    "sectors": ["DeepTech", "Hardware", "CleanTech", "Energy"],
+    "date": "2025-01-29"
+  },
+  {
+    "company": "AYAQ",
+    "amount": 3.2,
     "sectors": ["E-commerce & Retail"],
-    "date": "2025-01-23"
+    "date": "2025-01-28"
   },
   {
-    "company": "Neo Xperiences",
-    "amount": 3.6,
-    "sectors": ["E-commerce & Retail"],
-    "date": "2025-01-22"
+    "company": "GoCanopy",
+    "amount": 2.1,
+    "sectors": ["PropTech & Real Estate", "AI & Machine Learning"],
+    "date": "2025-01-27"
   },
   {
-    "company": "Anodine",
-    "amount": 2.5,
-    "sectors": ["DeepTech & Hardware", "CleanTech & Energy"],
-    "date": "2025-01-23"
-  },
-  {
-    "company": "Notom",
+    "company": "Radiant",
     "amount": 2,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2025-01-21"
+    "sectors": ["Energy", "CleanTech"],
+    "date": "2025-01-24"
   },
   {
-    "company": "Windcoop",
-    "amount": 1.4,
-    "sectors": ["CleanTech & Energy"],
-    "date": "2025-01-20"
+    "company": "Dowgo",
+    "amount": 2,
+    "sectors": ["FinTech", "Web3"],
+    "date": "2025-01-29"
   },
   {
-    "company": "checkDPE",
-    "amount": 1.2,
-    "sectors": ["CleanTech & Energy", "AI & Machine Learning", "PropTech & Real Estate"],
-    "date": "2025-01-23"
+    "company": "Evolutive Agronomy",
+    "amount": 1.8,
+    "sectors": ["AgriTech", "BioTech"],
+    "date": "2025-01-28"
   },
   {
-    "company": "Obside",
-    "amount": 0.5,
-    "sectors": ["FinTech", "AI & Machine Learning"],
-    "date": "2025-01-22"
+    "company": "ATOBA Energy",
+    "amount": 1.265,
+    "sectors": ["ClimateTech", "SpaceTech & Aerospace"],
+    "date": "2025-01-30"
   }
 ]
