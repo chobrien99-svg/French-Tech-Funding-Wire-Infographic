@@ -1,62 +1,80 @@
 [
   {
-    "company": "Aviwell",
-    "amount": 11,
-    "sectors": ["AgriTech", "FoodTech", "HealthTech", "BioTech", "AI & Machine Learning"],
-    "date": "2025-01-27"
-  },
-  {
-    "company": "Twin",
-    "amount": 8.4,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2025-01-27"
-  },
-  {
-    "company": "Atlas V Group",
-    "amount": 5,
-    "sectors": ["Gaming"],
-    "date": "2025-01-28"
-  },
-  {
-    "company": "Recupere Metals",
-    "amount": 5,
-    "sectors": ["DeepTech", "Hardware", "CleanTech", "Energy"],
-    "date": "2025-01-29"
-  },
-  {
-    "company": "AYAQ",
-    "amount": 3.2,
-    "sectors": ["E-commerce & Retail"],
-    "date": "2025-01-28"
-  },
-  {
-    "company": "GoCanopy",
-    "amount": 2.1,
-    "sectors": ["PropTech & Real Estate", "AI & Machine Learning"],
-    "date": "2025-01-27"
-  },
-  {
-    "company": "Radiant",
-    "amount": 2,
+    "company": "newcleo",
+    "amount": 75,
     "sectors": ["Energy", "CleanTech"],
-    "date": "2025-01-24"
+    "date": "2025-02-03"
   },
   {
-    "company": "Dowgo",
-    "amount": 2,
-    "sectors": ["FinTech", "Web3"],
-    "date": "2025-01-29"
+    "company": "Hublo",
+    "amount": 40,
+    "sectors": ["HealthTech", "SaaS & Enterprise"],
+    "date": "2025-02-03"
   },
   {
-    "company": "Evolutive Agronomy",
-    "amount": 1.8,
-    "sectors": ["AgriTech", "BioTech"],
-    "date": "2025-01-28"
+    "company": "MyC",
+    "amount": 10,
+    "sectors": ["HealthTech", "SaaS & Enterprise"],
+    "date": "2025-02-04"
   },
   {
-    "company": "ATOBA Energy",
-    "amount": 1.265,
-    "sectors": ["ClimateTech", "SpaceTech & Aerospace"],
-    "date": "2025-01-30"
+    "company": "Apmonia Therapeutics",
+    "amount": 10,
+    "sectors": ["BioTech"],
+    "date": "2025-02-04"
+  },
+  {
+    "company": "Linkup",
+    "amount": 8.46,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2025-02-03"
+  },
+  {
+    "company": "UBEES",
+    "amount": 8,
+    "sectors": ["AgriTech"],
+    "date": "2025-02-03"
+  },
+  {
+    "company": "Bobine",
+    "amount": 7.5,
+    "sectors": ["CleanTech"],
+    "date": "2025-02-04"
+  },
+  {
+    "company": "Dionymer",
+    "amount": 7,
+    "sectors": ["CleanTech", "BioTech"],
+    "date": "2025-02-05"
+  },
+  {
+    "company": "Geolinks Services",
+    "amount": 3.4,
+    "sectors": ["DeepTech", "Energy"],
+    "date": "2025-02-05"
+  },
+  {
+    "company": "DermaScan",
+    "amount": 2.5,
+    "sectors": ["MedTech", "AI & Machine Learning"],
+    "date": "2025-02-04"
+  },
+  {
+    "company": "Entent",
+    "amount": 2.4,
+    "sectors": ["CleanTech", "DeepTech", "Energy"],
+    "date": "2025-02-05"
+  },
+  {
+    "company": "PRESAGE",
+    "amount": 1.2,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2025-02-05"
+  },
+  {
+    "company": "Sailiz",
+    "amount": 0.2,
+    "sectors": ["E-commerce & Retail"],
+    "date": "2025-02-06"
   }
 ]
