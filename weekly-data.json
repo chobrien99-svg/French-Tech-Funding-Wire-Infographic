@@ -1,80 +1,80 @@
 [
   {
-    "company": "newcleo",
-    "amount": 75,
-    "sectors": ["Energy", "CleanTech"],
-    "date": "2025-02-03"
+    "company": "DentalMonitoring",
+    "amount": 84,
+    "sectors": ["HealthTech", "AI & Machine Learning", "Hardware"],
+    "date": "2026-02-09"
   },
   {
-    "company": "Hublo",
-    "amount": 40,
-    "sectors": ["HealthTech", "SaaS & Enterprise"],
-    "date": "2025-02-03"
+    "company": "Naboo",
+    "amount": 60,
+    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
+    "date": "2026-02-10"
   },
   {
-    "company": "MyC",
-    "amount": 10,
-    "sectors": ["HealthTech", "SaaS & Enterprise"],
-    "date": "2025-02-04"
+    "company": "GitGuardian",
+    "amount": 42.1,
+    "sectors": ["Cybersecurity", "AI & Machine Learning"],
+    "date": "2026-02-11"
   },
   {
-    "company": "Apmonia Therapeutics",
-    "amount": 10,
+    "company": "Lifeaz",
+    "amount": 13,
+    "sectors": ["HealthTech", "Hardware"],
+    "date": "2026-02-10"
+  },
+  {
+    "company": "4Moving Biotech",
+    "amount": 12,
     "sectors": ["BioTech"],
-    "date": "2025-02-04"
+    "date": "2026-02-12"
   },
   {
-    "company": "Linkup",
-    "amount": 8.46,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2025-02-03"
-  },
-  {
-    "company": "UBEES",
-    "amount": 8,
-    "sectors": ["AgriTech"],
-    "date": "2025-02-03"
-  },
-  {
-    "company": "Bobine",
-    "amount": 7.5,
-    "sectors": ["CleanTech"],
-    "date": "2025-02-04"
-  },
-  {
-    "company": "Dionymer",
+    "company": "ISYBOT",
     "amount": 7,
-    "sectors": ["CleanTech", "BioTech"],
-    "date": "2025-02-05"
+    "sectors": ["Robotics", "Industrial Automation", "DeepTech", "Manufacturing Tech"],
+    "date": "2026-02-11"
   },
   {
-    "company": "Geolinks Services",
-    "amount": 3.4,
-    "sectors": ["DeepTech", "Energy"],
-    "date": "2025-02-05"
-  },
-  {
-    "company": "DermaScan",
-    "amount": 2.5,
-    "sectors": ["MedTech", "AI & Machine Learning"],
-    "date": "2025-02-04"
-  },
-  {
-    "company": "Entent",
-    "amount": 2.4,
-    "sectors": ["CleanTech", "DeepTech", "Energy"],
-    "date": "2025-02-05"
-  },
-  {
-    "company": "PRESAGE",
-    "amount": 1.2,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2025-02-05"
-  },
-  {
-    "company": "Sailiz",
-    "amount": 0.2,
+    "company": "Getinside",
+    "amount": 3.2,
     "sectors": ["E-commerce & Retail"],
-    "date": "2025-02-06"
+    "date": "2026-02-12"
+  },
+  {
+    "company": "Eclore",
+    "amount": 3,
+    "sectors": ["DeepTech", "Hardware"],
+    "date": "2026-02-13"
+  },
+  {
+    "company": "Archimed",
+    "amount": 3,
+    "sectors": ["SaaS & Enterprise"],
+    "date": "2026-02-10"
+  },
+  {
+    "company": "PGP Farmer",
+    "amount": 3,
+    "sectors": ["BioTech", "AgriTech", "HealthTech"],
+    "date": "2026-02-13"
+  },
+  {
+    "company": "Rivage",
+    "amount": 2.6,
+    "sectors": ["FinTech", "AI & Machine Learning"],
+    "date": "2026-02-12"
+  },
+  {
+    "company": "Solaya",
+    "amount": 1.68,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2026-02-09"
+  },
+  {
+    "company": "Greez",
+    "amount": 0.627,
+    "sectors": ["Circular Economy", "RetailTech", "BeautyTech", "Sustainability"],
+    "date": "2026-02-13"
   }
 ]
