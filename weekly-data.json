@@ -1,80 +1,74 @@
 [
   {
-    "company": "DentalMonitoring",
-    "amount": 84,
-    "sectors": ["HealthTech", "AI & Machine Learning", "Hardware"],
-    "date": "2026-02-09"
+    "company": "VIZZIA",
+    "amount": 30,
+    "sectors": ["AI & Machine Learning", "Hardware"],
+    "date": "2026-02-20"
   },
   {
-    "company": "Naboo",
-    "amount": 60,
-    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
-    "date": "2026-02-10"
+    "company": "HEXANA",
+    "amount": 15,
+    "sectors": ["Energy", "CleanTech"],
+    "date": "2026-02-20"
   },
   {
-    "company": "GitGuardian",
-    "amount": 42.1,
-    "sectors": ["Cybersecurity", "AI & Machine Learning"],
-    "date": "2026-02-11"
+    "company": "Firecell",
+    "amount": 7.9,
+    "sectors": ["Telecom", "DefenseTech"],
+    "date": "2026-02-20"
   },
   {
-    "company": "Lifeaz",
-    "amount": 13,
-    "sectors": ["HealthTech", "Hardware"],
-    "date": "2026-02-10"
+    "company": "Skydrone Robotics",
+    "amount": 5,
+    "sectors": ["DefenseTech", "Robotics", "Drones"],
+    "date": "2026-02-20"
   },
   {
-    "company": "4Moving Biotech",
-    "amount": 12,
-    "sectors": ["BioTech"],
-    "date": "2026-02-12"
+    "company": "Ocellus",
+    "amount": 4,
+    "sectors": ["Gaming", "Creative Tech", "Entertainment", "Game Development"],
+    "date": "2026-02-20"
   },
   {
-    "company": "ISYBOT",
-    "amount": 7,
-    "sectors": ["Robotics", "Industrial Automation", "DeepTech", "Manufacturing Tech"],
-    "date": "2026-02-11"
+    "company": "Newable",
+    "amount": 4,
+    "sectors": ["ClimateTech", "PropTech", "AI & Machine Learning"],
+    "date": "2026-02-20"
   },
   {
-    "company": "Getinside",
-    "amount": 3.2,
-    "sectors": ["E-commerce & Retail"],
-    "date": "2026-02-12"
-  },
-  {
-    "company": "Eclore",
-    "amount": 3,
-    "sectors": ["DeepTech", "Hardware"],
-    "date": "2026-02-13"
-  },
-  {
-    "company": "Archimed",
-    "amount": 3,
+    "company": "Weytop",
+    "amount": 1.7,
     "sectors": ["SaaS & Enterprise"],
-    "date": "2026-02-10"
+    "date": "2026-02-20"
   },
   {
-    "company": "PGP Farmer",
-    "amount": 3,
-    "sectors": ["BioTech", "AgriTech", "HealthTech"],
-    "date": "2026-02-13"
+    "company": "Stairling",
+    "amount": 1.4,
+    "sectors": ["Mobility & Transportation"],
+    "date": "2026-02-20"
   },
   {
-    "company": "Rivage",
-    "amount": 2.6,
-    "sectors": ["FinTech", "AI & Machine Learning"],
-    "date": "2026-02-12"
+    "company": "Revolty",
+    "amount": 1,
+    "sectors": ["ClimateTech", "Energy Storage", "PropTech"],
+    "date": "2026-02-20"
   },
   {
-    "company": "Solaya",
-    "amount": 1.68,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2026-02-09"
+    "company": "Numalis",
+    "amount": 0.84,
+    "sectors": ["AI & Machine Learning", "DeepTech"],
+    "date": "2026-02-20"
   },
   {
-    "company": "Greez",
-    "amount": 0.627,
-    "sectors": ["Circular Economy", "RetailTech", "BeautyTech", "Sustainability"],
-    "date": "2026-02-13"
+    "company": "MoneyShape",
+    "amount": 0.4,
+    "sectors": ["FinTech", "PropTech"],
+    "date": "2026-02-20"
+  },
+  {
+    "company": "MadeForMed",
+    "amount": 0.2,
+    "sectors": ["HealthTech"],
+    "date": "2026-02-20"
   }
 ]
