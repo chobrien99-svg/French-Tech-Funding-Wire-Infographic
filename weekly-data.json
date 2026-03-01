@@ -70,5 +70,65 @@
     "amount": 0.2,
     "sectors": ["HealthTech"],
     "date": "2026-02-20"
+  },
+  {
+    "company": "Verley",
+    "amount": 32,
+    "sectors": ["FoodTech", "AgriTech", "DeepTech", "BioTech"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "Meelo",
+    "amount": 14,
+    "sectors": ["FinTech", "AI & Machine Learning", "Cybersecurity"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "hummingbirds",
+    "amount": 5,
+    "sectors": ["CleanTech", "AgriTech"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "Alpa",
+    "amount": 2.9,
+    "sectors": ["FinTech", "SaaS & Enterprise", "FoodTech"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "THE 8 IMPACT",
+    "amount": 2,
+    "sectors": ["ClimateTech", "E-commerce & Retail"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "Opus Aerospace",
+    "amount": 1.2,
+    "sectors": ["SpaceTech & Aerospace", "DefenseTech", "DeepTech"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "OOrion",
+    "amount": 1,
+    "sectors": ["AI & Machine Learning", "E-commerce & Retail", "TravelTech"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "Desk",
+    "amount": 1,
+    "sectors": ["PropTech", "SaaS & Enterprise", "AI & Machine Learning"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "Formel AI",
+    "amount": null,
+    "sectors": ["AI & Machine Learning"],
+    "date": "2026-02-27"
+  },
+  {
+    "company": "fxhash",
+    "amount": null,
+    "sectors": ["Web3"],
+    "date": "2026-02-27"
   }
 ]
