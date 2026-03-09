@@ -1,62 +1,74 @@
 [
   {
-    "company": "Verley",
-    "amount": 32,
-    "sectors": ["FoodTech", "AgriTech", "DeepTech", "BioTech"],
-    "date": "2026-02-27"
+    "company": "DeepIP",
+    "amount": 23,
+    "sectors": ["AI & Machine Learning", "LegalTech"],
+    "round": "Series B",
+    "hq": "Paris, New York City",
+    "investors": ["Korelya Capital", "Serena", "Headline", "Balderton Capital"],
+    "date": "2026-03-06"
   },
   {
-    "company": "Meelo",
-    "amount": 14,
-    "sectors": ["FinTech", "AI & Machine Learning", "Cybersecurity"],
-    "date": "2026-02-27"
+    "company": "Heliup",
+    "amount": 16,
+    "sectors": ["Energy", "DeepTech"],
+    "round": "Growth",
+    "hq": "Le Bourget-du-Lac",
+    "investors": ["Supernova Invest", "MAIF Impact", "Lita Gestion", "C2AD", "Starquest Capital", "BNP Paribas Développement"],
+    "date": "2026-03-06"
   },
   {
-    "company": "hummingbirds",
-    "amount": 5,
-    "sectors": ["CleanTech", "AgriTech"],
-    "date": "2026-02-27"
+    "company": "Metavonics",
+    "amount": 7.3,
+    "sectors": ["SpaceTech & Aerospace", "DefenseTech"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["Safran Corporate Ventures", "TTTech"],
+    "date": "2026-03-06"
   },
   {
-    "company": "Alpa",
-    "amount": 2.9,
-    "sectors": ["FinTech", "SaaS & Enterprise", "FoodTech"],
-    "date": "2026-02-27"
+    "company": "Amatera",
+    "amount": 6,
+    "sectors": ["AgriTech", "BioTech"],
+    "round": "Seed",
+    "hq": "Évry-Courcouronnes",
+    "investors": ["Demea Sustainable Investment", "Oyster Bay Venture Capital", "PINC", "Mudcake", "Exceptional Ventures"],
+    "date": "2026-03-06"
   },
   {
-    "company": "THE 8 IMPACT",
-    "amount": 2,
-    "sectors": ["ClimateTech", "E-commerce & Retail"],
-    "date": "2026-02-27"
+    "company": "Ilion Water Technologies",
+    "amount": 3.8,
+    "sectors": ["CleanTech", "DeepTech"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Demea Sustainable Investment", "Critical Path Ventures", "Bpifrance", "Région Île-de-France", "CNRS", "PSL", "European Research Council"],
+    "date": "2026-03-06"
   },
   {
-    "company": "Opus Aerospace",
-    "amount": 1.2,
-    "sectors": ["SpaceTech & Aerospace", "DefenseTech", "DeepTech"],
-    "date": "2026-02-27"
+    "company": "Novacium",
+    "amount": 2.5,
+    "sectors": ["DeepTech", "Energy"],
+    "round": "Seed",
+    "hq": "Solaize",
+    "investors": ["HPQ Silicium"],
+    "date": "2026-03-06"
   },
   {
-    "company": "OOrion",
-    "amount": 1,
-    "sectors": ["AI & Machine Learning", "E-commerce & Retail", "TravelTech"],
-    "date": "2026-02-27"
+    "company": "Albupad",
+    "amount": 1.3,
+    "sectors": ["BioTech", "DeepTech"],
+    "round": "Pre-Seed",
+    "hq": "Strasbourg",
+    "investors": ["Alsace Business Angels", "Yeast", "Bpifrance"],
+    "date": "2026-03-06"
   },
   {
-    "company": "Desk",
-    "amount": 1,
-    "sectors": ["PropTech", "SaaS & Enterprise", "AI & Machine Learning"],
-    "date": "2026-02-27"
-  },
-  {
-    "company": "Formel AI",
+    "company": "Animaj",
     "amount": null,
-    "sectors": ["AI & Machine Learning"],
-    "date": "2026-02-27"
-  },
-  {
-    "company": "fxhash",
-    "amount": null,
-    "sectors": ["Web3"],
-    "date": "2026-02-27"
+    "sectors": ["AI & Machine Learning", "Entertainment"],
+    "round": "Late Stage",
+    "hq": "Paris",
+    "investors": ["Google"],
+    "date": "2026-03-06"
   }
 ]
