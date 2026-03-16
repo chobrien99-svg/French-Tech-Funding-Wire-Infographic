@@ -70,5 +70,113 @@
     "hq": "Paris",
     "investors": ["Google"],
     "date": "2026-03-06"
+  },
+  {
+    "company": "Advanced Machine Intelligence (AMI)",
+    "amount": 890,
+    "sectors": ["AI & Machine Learning"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Cathay Innovation", "Greycroft", "Hiro Capital", "HV Capital", "Jeff Bezos Expeditions", "Toyota Ventures", "Temasek", "SBVA", "NVIDIA", "Mark Cuban", "Association Familiale Mulliez", "Groupe industriel Marcel Dassault", "Sea", "Alpha Intelligence Capital", "Eric Schmidt", "Aglaé Lab", "ZEBOX Ventures", "Artémis", "Xavier Niel", "Publicis Groupe", "Samsung", "Bpifrance", "Jim Breyer", "Tim Berners-Lee", "Mark Leslie"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Alan",
+    "amount": 100,
+    "sectors": ["FinTech", "InsurTech", "AI & Machine Learning"],
+    "round": "Growth",
+    "hq": "Paris",
+    "investors": ["Index Ventures", "Belfius", "Greenoaks", "Kaaf Investments", "SH Capital", "Business Angels", "Antoine Griezmann"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Calogena",
+    "amount": 52,
+    "sectors": ["Nuclear", "ClimateTech", "Energy Infrastructure", "DeepTech"],
+    "round": "Growth",
+    "hq": "Aix-en-Provence",
+    "investors": ["Groupe Gorgé", "SNEF", "Banque des Territoires", "France 2030"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Jimmy Energy",
+    "amount": 40,
+    "sectors": ["Energy", "DeepTech"],
+    "round": "Growth",
+    "hq": "Paris",
+    "investors": ["Crédit Mutuel Impact", "Ademe Investissement", "Serena", "France 2030"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Waiv",
+    "amount": 28.9,
+    "sectors": ["AI & Machine Learning", "BioTech"],
+    "round": "Growth",
+    "hq": "Paris",
+    "investors": ["OTB Ventures", "Alpha Intelligence Capital", "Serena", "Karista", "Sista Fund"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Qevlar AI",
+    "amount": 26.2,
+    "sectors": ["AI & Machine Learning", "Cybersecurity"],
+    "round": "Series B",
+    "hq": "Paris",
+    "investors": ["Partech", "Forgepoint Capital International", "EQT Ventures"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Santexpat",
+    "amount": 26,
+    "sectors": ["InsurTech"],
+    "round": "Series B",
+    "hq": "Paris",
+    "investors": ["Malakoff Humanis"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Escape",
+    "amount": 15.4,
+    "sectors": ["Cybersecurity", "AI & Machine Learning"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["Balderton Capital", "Uncorrelated Ventures", "IRIS", "Y Combinator"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "May Health",
+    "amount": 10,
+    "sectors": ["MedTech", "HealthTech"],
+    "round": "Growth",
+    "hq": "Menlo Park, Paris",
+    "investors": ["Nexpring Health", "Sofinnova Partners", "Trill Impact", "Bpifrance"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Living Models",
+    "amount": 6.1,
+    "sectors": ["AI & Machine Learning", "BioTech"],
+    "round": "Seed",
+    "hq": "Paris, Berkeley",
+    "investors": ["UC Berkeley", "Asterion Ventures", "Artesian", "Galion.exe", "Juniper", "Pascual", "Kima Ventures", "Station F"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Lemrock",
+    "amount": 6,
+    "sectors": ["AI & Machine Learning", "E-commerce & Retail", "DeepTech"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Galion.exe", "Michaël Benabou", "Gary Anssens", "Frédéric Halley", "Emmanuelle Brizay", "Antoine Lizée"],
+    "date": "2026-03-13"
+  },
+  {
+    "company": "Aerix Systems",
+    "amount": 5,
+    "sectors": ["Robotics", "DefenseTech", "Drones"],
+    "round": "Seed",
+    "hq": "Mérignac",
+    "investors": ["Odyssée Venture"],
+    "date": "2026-03-13"
   }
 ]
