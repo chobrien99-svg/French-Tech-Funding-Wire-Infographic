@@ -1,92 +1,74 @@
 [
   {
-    "company": "Hynaero",
-    "amount": 117,
-    "sectors": ["SpaceTech & Aerospace", "ClimateTech", "DefenseTech", "DeepTech"],
-    "round": "Seed, Series A",
-    "hq": "Bordeaux",
-    "investors": ["Bpifrance", "Région Sud"],
-    "date": "2026-03-23"
-  },
-  {
-    "company": "Leviathan Dynamics",
-    "amount": 8.2,
-    "sectors": ["ClimateTech", "DeepTech"],
-    "round": "Seed",
-    "hq": "La Courneuve",
-    "investors": ["Keenest", "Banque des Territoires", "daphni", "Team For The Planet"],
-    "date": "2026-03-23"
-  },
-  {
-    "company": "EGIDE",
-    "amount": 8,
-    "sectors": ["DefenseTech", "DeepTech", "AI & Machine Learning"],
-    "round": "Seed",
+    "company": "Standing Ovation",
+    "amount": 25,
+    "sectors": ["FoodTech", "ClimateTech", "BioTech"],
+    "round": "Series B",
     "hq": "Paris",
-    "investors": ["Expeditions", "Eurazeo", "Heartcore Capital", "Galion.exe", "Kima Ventures"],
-    "date": "2026-03-23"
+    "investors": ["Danone Ventures", "Crédit Mutuel", "Angelor", "Bel Group", "Bpifrance", "Astanor", "Seventure Partners", "Good Startup", "Big Idea Ventures"],
+    "date": "2026-03-30"
   },
   {
-    "company": "DiappyMed",
-    "amount": 5,
-    "sectors": ["HealthTech", "AI & Machine Learning"],
-    "round": "Seed",
-    "hq": "Montpellier",
-    "investors": ["Ventech", "AFI Ventures", "Sofilaro", "IRDI Capital Investissement"],
-    "date": "2026-03-23"
-  },
-  {
-    "company": "Bitstack",
-    "amount": 3.9,
-    "sectors": ["FinTech", "Web3"],
+    "company": "Kestra",
+    "amount": 21.7,
+    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
     "round": "Series A",
     "hq": "Paris",
-    "investors": ["8,000+ retail investors via Crowdcube"],
-    "date": "2026-03-23"
+    "investors": ["RTP Global", "Alven", "ISAI", "Axeleo"],
+    "date": "2026-03-30"
   },
   {
-    "company": "Drinkee",
-    "amount": 3.4,
-    "sectors": ["FoodTech", "E-Commerce & Retail"],
+    "company": "Generare",
+    "amount": 15,
+    "sectors": ["BioTech", "AI & Machine Learning", "DeepTech"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["Alven", "daphni", "Galion.exe", "Teampact Ventures", "Vives Partners"],
+    "date": "2026-03-30"
+  },
+  {
+    "company": "Lifebloom",
+    "amount": 6,
+    "sectors": ["HealthTech", "MedTech", "Robotics"],
     "round": "Seed",
-    "hq": "Évry",
-    "investors": ["Provence Angels", "Arts & Métiers Business Angels", "Force Business Angels", "TRAIL Capital", "Epsilon Value", "RP & Partners"],
-    "date": "2026-03-23"
+    "hq": "France",
+    "investors": ["Business Angels", "France 2030"],
+    "date": "2026-04-01"
   },
   {
-    "company": "Piston",
-    "amount": 3,
+    "company": "SCorp-io",
+    "amount": 5,
+    "sectors": ["ClimateTech", "PropTech", "AI & Machine Learning", "SaaS & Enterprise"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Île-de-France Décarbonation Fund"],
+    "date": "2026-04-01"
+  },
+  {
+    "company": "AI6 Technologies",
+    "amount": 4,
+    "sectors": ["InsurTech", "AI & Machine Learning", "SaaS & Enterprise"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Generali France", "SOCADIF Capital Investissement"],
+    "date": "2026-04-02"
+  },
+  {
+    "company": "Omniscient",
+    "amount": 3.6,
     "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["daphni", "Drysdale Ventures", "OVNI Capital", "Motier Ventures", "Kima Ventures", "Arthur Waller", "Alexandre Ducoeur Martins", "Cedric Sellin", "Flavien Kulawik", "Eric Fourrier"],
-    "date": "2026-03-23"
+    "investors": ["Seedcamp", "Drysdale Ventures", "Plug and Play", "MS & AD", "Raise", "Anamcara", "xdeck", "Bpifrance"],
+    "date": "2026-04-02"
   },
   {
-    "company": "K-Motors",
+    "company": "Loamics",
     "amount": 3,
-    "sectors": ["DeepTech", "CleanTech", "Mobility & Transportation"],
-    "round": "Seed",
-    "hq": "Peynier",
-    "investors": ["Bpifrance", "Kyocera Ventures", "Région Sud Investissement", "LCL", "Société Générale", "CEPAC"],
-    "date": "2026-03-23"
-  },
-  {
-    "company": "Nabu",
-    "amount": 3,
-    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
-    "round": "Seed",
-    "hq": "Strasbourg",
-    "investors": ["Getlink", "Maersk Growth", "InvestorX", "Team Ignite Ventures", "Techstars"],
-    "date": "2026-03-23"
-  },
-  {
-    "company": "MindDay",
-    "amount": 2,
-    "sectors": ["HealthTech"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Impactivist", "INCO", "Mutuelles Impact", "XAnge"],
-    "date": "2026-03-23"
+    "sectors": ["HealthTech", "SaaS & Enterprise", "MedTech"],
+    "round": "Growth",
+    "hq": "Boulogne-Billancourt",
+    "investors": ["Vatel Capital"],
+    "date": "2026-04-03"
   }
 ]
