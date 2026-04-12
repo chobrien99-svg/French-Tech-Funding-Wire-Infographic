@@ -9,6 +9,15 @@
     "date": "2026-04-06"
   },
   {
+    "company": "Standing Ovation",
+    "amount": 25,
+    "sectors": ["FoodTech", "ClimateTech", "BioTech"],
+    "round": "Series B",
+    "hq": "Paris",
+    "investors": ["Danone Ventures", "Crédit Mutuel", "Angelor", "Bel Group", "Bpifrance", "Astanor", "Seventure Partners", "Good Startup", "Big Idea Ventures"],
+    "date": "2026-03-30"
+  },
+  {
     "company": "NeuroClues",
     "amount": 10,
     "sectors": ["HealthTech", "MedTech", "AI & Machine Learning"],
@@ -79,5 +88,68 @@
     "hq": "Venansault",
     "investors": ["Banque Populaire Grand Ouest", "Bpifrance", "CCI Vendée", "Business Angel"],
     "date": "2026-04-10"
+  },
+  {
+    "company": "Kestra",
+    "amount": 21.7,
+    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["RTP Global", "Alven", "ISAI", "Axeleo"],
+    "date": "2026-03-30"
+  },
+  {
+    "company": "Generare",
+    "amount": 15,
+    "sectors": ["BioTech", "AI & Machine Learning", "DeepTech"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["Alven", "daphni", "Galion.exe", "Teampact Ventures", "Vives Partners"],
+    "date": "2026-03-30"
+  },
+  {
+    "company": "Lifebloom",
+    "amount": 6,
+    "sectors": ["HealthTech", "MedTech", "Robotics"],
+    "round": "Seed",
+    "hq": "France",
+    "investors": ["Business Angels", "France 2030"],
+    "date": "2026-04-01"
+  },
+  {
+    "company": "SCorp-io",
+    "amount": 5,
+    "sectors": ["ClimateTech", "PropTech", "AI & Machine Learning", "SaaS & Enterprise"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Île-de-France Décarbonation Fund"],
+    "date": "2026-04-01"
+  },
+  {
+    "company": "AI6 Technologies",
+    "amount": 4,
+    "sectors": ["InsurTech", "AI & Machine Learning", "SaaS & Enterprise"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Generali France", "SOCADIF Capital Investissement"],
+    "date": "2026-04-02"
+  },
+  {
+    "company": "Omniscient",
+    "amount": 3.6,
+    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Seedcamp", "Drysdale Ventures", "Plug and Play", "MS & AD", "Raise", "Anamcara", "xdeck", "Bpifrance"],
+    "date": "2026-04-02"
+  },
+  {
+    "company": "Loamics",
+    "amount": 3,
+    "sectors": ["HealthTech", "SaaS & Enterprise", "MedTech"],
+    "round": "Growth",
+    "hq": "Boulogne-Billancourt",
+    "investors": ["Vatel Capital"],
+    "date": "2026-04-03"
   }
 ]
