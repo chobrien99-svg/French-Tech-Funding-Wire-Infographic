@@ -1,155 +1,109 @@
 [
   {
-    "company": "Aura Aero",
-    "amount": 50,
-    "sectors": ["Aerospace", "Mobility", "ClimateTech", "DefenseTech"],
-    "round": "Series B",
-    "hq": "Toulouse",
-    "investors": ["Safran Corporate Ventures", "EDF", "European Innovation Council (EIC Fund)", "Innovacom", "Florida Opportunity Fund", "Bpifrance", "Blast Club"],
-    "date": "2026-04-06"
-  },
-  {
-    "company": "Standing Ovation",
-    "amount": 25,
-    "sectors": ["FoodTech", "ClimateTech", "BioTech"],
-    "round": "Series B",
-    "hq": "Paris",
-    "investors": ["Danone Ventures", "Crédit Mutuel", "Angelor", "Bel Group", "Bpifrance", "Astanor", "Seventure Partners", "Good Startup", "Big Idea Ventures"],
-    "date": "2026-03-30"
-  },
-  {
-    "company": "NeuroClues",
-    "amount": 10,
-    "sectors": ["HealthTech", "MedTech", "AI & Machine Learning"],
-    "round": "Series A",
-    "hq": "Brussels/Paris",
-    "investors": ["Teampact Ventures", "White Fund", "European Innovation Council (EIC Fund)", "Invest BW", "Leansquare", "Wallonie Entreprendre", "LITA"],
-    "date": "2026-04-07"
-  },
-  {
-    "company": "Hepta Medical",
-    "amount": 10,
-    "sectors": ["MedTech", "HealthTech"],
-    "round": "Series A",
-    "hq": "Suresnes",
-    "investors": ["UI Investissement", "Supernova Invest", "Bpifrance", "M&L", "Cléry", "MD Start"],
-    "date": "2026-04-07"
-  },
-  {
-    "company": "Cobl.ai",
-    "amount": 6,
-    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
-    "round": "Seed",
-    "hq": "France",
-    "investors": ["Eurazeo", "SuperCapital-Side Angels", "Apok Invest", "Station F"],
-    "date": "2026-04-08"
-  },
-  {
-    "company": "Luniwave",
-    "amount": 3.6,
-    "sectors": ["ClimateTech", "TravelTech"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Banque des Territoires", "Good Only Ventures", "Lita", "SideAngels", "Inovexus"],
-    "date": "2026-04-08"
-  },
-  {
-    "company": "Plume",
-    "amount": 3.3,
-    "sectors": ["ClimateTech", "AI & Machine Learning"],
-    "round": "Seed",
-    "hq": "France",
-    "investors": ["AENU", "Y Combinator", "Kima Ventures", "Raise Sherpa", "Collab Fund"],
-    "date": "2026-04-09"
-  },
-  {
-    "company": "Playruo",
-    "amount": 2.1,
-    "sectors": ["GameTech", "SaaS & Enterprise"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Blast", "Kameha Ventures", "Ventech", "Maxime Demeure", "Nicolas Beraud"],
-    "date": "2026-04-09"
-  },
-  {
-    "company": "Hairdex",
-    "amount": 1,
-    "sectors": ["HealthTech"],
-    "round": "Seed",
-    "hq": "Marseille",
-    "investors": ["Business Angels", "Hervest Club", "Bpifrance"],
-    "date": "2026-04-10"
-  },
-  {
-    "company": "Easley",
-    "amount": 0.5,
-    "sectors": ["Mobility", "ClimateTech", "SaaS & Enterprise", "EV Infrastructure", "Fleet Management"],
-    "round": "Seed",
-    "hq": "Venansault",
-    "investors": ["Banque Populaire Grand Ouest", "Bpifrance", "CCI Vendée", "Business Angel"],
-    "date": "2026-04-10"
-  },
-  {
-    "company": "Kestra",
-    "amount": 21.7,
-    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["RTP Global", "Alven", "ISAI", "Axeleo"],
-    "date": "2026-03-30"
-  },
-  {
-    "company": "Generare",
+    "company": "Agriodor",
     "amount": 15,
-    "sectors": ["BioTech", "AI & Machine Learning", "DeepTech"],
+    "sectors": ["AgriTech", "ClimateTech", "BioTech", "FoodTech"],
     "round": "Series A",
-    "hq": "Paris",
-    "investors": ["Alven", "daphni", "Galion.exe", "Teampact Ventures", "Vives Partners"],
-    "date": "2026-03-30"
+    "hq": "Rennes",
+    "investors": ["Environmental and Solidarity Revolution Fund", "Région Sud Investissement", "CAAP Création", "Capagro", "Ambra Capital", "SWEN Capital Partners"],
+    "date": "2026-04-13"
   },
   {
-    "company": "Lifebloom",
-    "amount": 6,
-    "sectors": ["HealthTech", "MedTech", "Robotics"],
-    "round": "Seed",
-    "hq": "France",
-    "investors": ["Business Angels", "France 2030"],
-    "date": "2026-04-01"
-  },
-  {
-    "company": "SCorp-io",
-    "amount": 5,
-    "sectors": ["ClimateTech", "PropTech", "AI & Machine Learning", "SaaS & Enterprise"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Île-de-France Décarbonation Fund"],
-    "date": "2026-04-01"
-  },
-  {
-    "company": "AI6 Technologies",
-    "amount": 4,
-    "sectors": ["InsurTech", "AI & Machine Learning", "SaaS & Enterprise"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Generali France", "SOCADIF Capital Investissement"],
-    "date": "2026-04-02"
-  },
-  {
-    "company": "Omniscient",
-    "amount": 3.6,
-    "sectors": ["AI & Machine Learning", "SaaS & Enterprise"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Seedcamp", "Drysdale Ventures", "Plug and Play", "MS & AD", "Raise", "Anamcara", "xdeck", "Bpifrance"],
-    "date": "2026-04-02"
-  },
-  {
-    "company": "Loamics",
-    "amount": 3,
-    "sectors": ["HealthTech", "SaaS & Enterprise", "MedTech"],
+    "company": "Donecle",
+    "amount": 10,
+    "sectors": ["Aerospace", "AI & Machine Learning", "Robotics", "Drones"],
     "round": "Growth",
-    "hq": "Boulogne-Billancourt",
-    "investors": ["Vatel Capital"],
-    "date": "2026-04-03"
+    "hq": "Toulouse",
+    "investors": ["IRDI Capital Investissement", "SWEN Capital Partners", "GSO Innovation", "ARIS Occitanie"],
+    "date": "2026-04-13"
+  },
+  {
+    "company": "HrFlow.ai",
+    "amount": 6.5,
+    "sectors": ["HRTech", "AI & Machine Learning", "SaaS & Enterprise", "Data Infrastructure"],
+    "round": "Pre-Series A",
+    "hq": "Paris",
+    "investors": ["115K", "EmergingTech Ventures", "Xavier Niel", "Jean-Baptiste Rudelle", "Thibaud Elzière", "Romain Niccoli", "Franck Le Ouay", "Flavien Kulawik", "Allen Penn", "Dominique Vidal", "Business Angels"],
+    "date": "2026-04-14"
+  },
+  {
+    "company": "Mirabelle",
+    "amount": 6,
+    "sectors": ["FinTech", "InsurTech"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Groupe Renée Costes", "OCIRP", "Groupe Intériale", "Groupe Elvest", "Christophe Eberlé", "Groupe Edgide", "Eric Viet", "Business Angels"],
+    "date": "2026-04-14"
+  },
+  {
+    "company": "Glimpact",
+    "amount": 2.6,
+    "sectors": ["ClimateTech", "SaaS & Enterprise", "FoodTech"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Sparkalis"],
+    "date": "2026-04-15"
+  },
+  {
+    "company": "Cosmyx",
+    "amount": 1.3,
+    "sectors": ["DeepTech", "DefenseTech"],
+    "round": "Seed",
+    "hq": "Épinay-sous-Sénart",
+    "investors": ["Paris Business Angels"],
+    "date": "2026-04-15"
+  },
+  {
+    "company": "Novaleum",
+    "amount": 1,
+    "sectors": ["ClimateTech", "Energy"],
+    "round": "Seed",
+    "hq": "Lyon",
+    "investors": ["Business Angels", "Bpifrance"],
+    "date": "2026-04-16"
+  },
+  {
+    "company": "Proclus",
+    "amount": 1,
+    "sectors": ["ClimateTech", "DeepTech"],
+    "round": "Seed",
+    "hq": "Vitry-sur-Seine",
+    "investors": ["SMABTP", "Invess Île-de-France Amorçage"],
+    "date": "2026-04-16"
+  },
+  {
+    "company": "Hymalaia",
+    "amount": 0.85,
+    "sectors": ["AI & Machine Learning", "SaaS & Enterprise", "Cybersecurity"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Akka", "BNP Paribas", "Bpifrance"],
+    "date": "2026-04-16"
+  },
+  {
+    "company": "Cap Atlas",
+    "amount": 0.8,
+    "sectors": ["Drones", "SaaS & Enterprise"],
+    "round": "Seed",
+    "hq": "Ganzeville",
+    "investors": ["Normandie Participations", "Normandie Littoral", "Normandie Business Angels", "Crédit Agricole Innove en Normandie", "Groupe Lhotellier"],
+    "date": "2026-04-17"
+  },
+  {
+    "company": "Oligo+",
+    "amount": 0.5,
+    "sectors": ["AgriTech", "Drones"],
+    "round": "Pre-Seed",
+    "hq": "Nancy",
+    "investors": ["Hexa Sprint"],
+    "date": "2026-04-17"
+  },
+  {
+    "company": "Convelio",
+    "sectors": ["Mobility & Transportation", "AI & Machine Learning", "SaaS & Enterprise"],
+    "round": "Series C",
+    "hq": "Paris",
+    "investors": ["Forestay", "Mundi Ventures", "Acton Capital"],
+    "date": "2026-04-17"
   }
 ]
