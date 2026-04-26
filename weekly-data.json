@@ -1,83 +1,109 @@
 [
   {
-    "company": "UNIVITY",
-    "amount": 27,
-    "sectors": ["SpaceTech", "DeepTech"],
+    "company": "Agriodor",
+    "amount": 15,
+    "sectors": ["AgriTech", "ClimateTech", "BioTech", "FoodTech"],
     "round": "Series A",
+    "hq": "Rennes",
+    "investors": ["Environmental and Solidarity Revolution Fund", "Région Sud Investissement", "CAAP Création", "Capagro", "Ambra Capital", "SWEN Capital Partners"],
+    "date": "2026-04-13"
+  },
+  {
+    "company": "Donecle",
+    "amount": 10,
+    "sectors": ["Aerospace", "AI & Machine Learning", "Robotics", "Drones"],
+    "round": "Growth",
+    "hq": "Toulouse",
+    "investors": ["IRDI Capital Investissement", "SWEN Capital Partners", "GSO Innovation", "ARIS Occitanie"],
+    "date": "2026-04-13"
+  },
+  {
+    "company": "HrFlow.ai",
+    "amount": 6.5,
+    "sectors": ["HRTech", "AI & Machine Learning", "SaaS & Enterprise", "Data Infrastructure"],
+    "round": "Pre-Series A",
     "hq": "Paris",
-    "investors": ["Blast", "France 2030", "Bpifrance"],
-    "date": "2026-04-24"
+    "investors": ["115K", "EmergingTech Ventures", "Xavier Niel", "Jean-Baptiste Rudelle", "Thibaud Elzière", "Romain Niccoli", "Franck Le Ouay", "Flavien Kulawik", "Allen Penn", "Dominique Vidal", "Business Angels"],
+    "date": "2026-04-14"
   },
   {
-    "company": "Ouidrop",
-    "amount": 7,
-    "sectors": ["RetailTech", "Robotics", "FoodTech"],
-    "round": "Series A",
-    "hq": "Bordeaux",
-    "investors": ["Xplore", "SWEN Capital Partners", "GSO Innovation", "Crédit Agricole", "Spring Invest"],
-    "date": "2026-04-24"
-  },
-  {
-    "company": "Decade Energy",
-    "amount": 5,
-    "sectors": ["ClimateTech", "CleanTech", "Energy", "Mobility"],
-    "round": "Growth Equity",
-    "hq": "Paris",
-    "investors": ["SET Ventures", "Eiffel Investment Group", "Ananda Impact Ventures", "Contrarian Ventures"],
-    "date": "2026-04-24"
-  },
-  {
-    "company": "Bubble Robotics",
-    "amount": 4.5,
-    "sectors": ["Robotics", "DefenseTech", "ClimateTech", "Drones"],
+    "company": "Mirabelle",
+    "amount": 6,
+    "sectors": ["FinTech", "InsurTech"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Episode 1", "Asterion Ventures", "Norrsken Evolve"],
-    "date": "2026-04-24"
+    "investors": ["Groupe Renée Costes", "OCIRP", "Groupe Intériale", "Groupe Elvest", "Christophe Eberlé", "Groupe Edgide", "Eric Viet", "Business Angels"],
+    "date": "2026-04-14"
   },
   {
-    "company": "Axomove",
-    "amount": 4,
-    "sectors": ["HealthTech", "MedTech", "SaaS"],
-    "round": "Series A",
-    "hq": "Lille",
-    "investors": ["Bpifrance", "Go Capital", "Inco Ventures", "Faraday Venture Partners"],
-    "date": "2026-04-24"
-  },
-  {
-    "company": "Five Lives",
-    "amount": 1.9,
-    "sectors": ["HealthTech", "BrainTech", "AI"],
+    "company": "Glimpact",
+    "amount": 2.6,
+    "sectors": ["ClimateTech", "SaaS & Enterprise", "FoodTech"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Open CNP", "50 Partners", "Family Ventures", "Sowefund"],
-    "date": "2026-04-24"
+    "investors": ["Sparkalis"],
+    "date": "2026-04-15"
   },
   {
-    "company": "Sillage",
-    "amount": 1.7,
-    "sectors": ["AI", "SaaS", "MarTech"],
+    "company": "Cosmyx",
+    "amount": 1.3,
+    "sectors": ["DeepTech", "DefenseTech"],
+    "round": "Seed",
+    "hq": "Épinay-sous-Sénart",
+    "investors": ["Paris Business Angels"],
+    "date": "2026-04-15"
+  },
+  {
+    "company": "Novaleum",
+    "amount": 1,
+    "sectors": ["ClimateTech", "Energy"],
+    "round": "Seed",
+    "hq": "Lyon",
+    "investors": ["Business Angels", "Bpifrance"],
+    "date": "2026-04-16"
+  },
+  {
+    "company": "Proclus",
+    "amount": 1,
+    "sectors": ["ClimateTech", "DeepTech"],
+    "round": "Seed",
+    "hq": "Vitry-sur-Seine",
+    "investors": ["SMABTP", "Invess Île-de-France Amorçage"],
+    "date": "2026-04-16"
+  },
+  {
+    "company": "Hymalaia",
+    "amount": 0.85,
+    "sectors": ["AI & Machine Learning", "SaaS & Enterprise", "Cybersecurity"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Akka", "BNP Paribas", "Bpifrance"],
+    "date": "2026-04-16"
+  },
+  {
+    "company": "Cap Atlas",
+    "amount": 0.8,
+    "sectors": ["Drones", "SaaS & Enterprise"],
+    "round": "Seed",
+    "hq": "Ganzeville",
+    "investors": ["Normandie Participations", "Normandie Littoral", "Normandie Business Angels", "Crédit Agricole Innove en Normandie", "Groupe Lhotellier"],
+    "date": "2026-04-17"
+  },
+  {
+    "company": "Oligo+",
+    "amount": 0.5,
+    "sectors": ["AgriTech", "Drones"],
     "round": "Pre-Seed",
+    "hq": "Nancy",
+    "investors": ["Hexa Sprint"],
+    "date": "2026-04-17"
+  },
+  {
+    "company": "Convelio",
+    "sectors": ["Mobility & Transportation", "AI & Machine Learning", "SaaS & Enterprise"],
+    "round": "Series C",
     "hq": "Paris",
-    "investors": ["Super Capital", "Backfuture"],
-    "date": "2026-04-24"
-  },
-  {
-    "company": "Biotech One",
-    "amount": 1,
-    "sectors": ["BioTech", "HealthTech", "DeepTech"],
-    "round": "Seed",
-    "hq": "Marseille",
-    "investors": ["Région Sud Investissement", "Crédit Agricole"],
-    "date": "2026-04-24"
-  },
-  {
-    "company": "minimiil",
-    "amount": 1,
-    "sectors": ["FoodTech", "AI"],
-    "round": "Seed",
-    "hq": "Clermont-Ferrand",
-    "investors": ["Newfund"],
-    "date": "2026-04-24"
+    "investors": ["Forestay", "Mundi Ventures", "Acton Capital"],
+    "date": "2026-04-17"
   }
 ]
