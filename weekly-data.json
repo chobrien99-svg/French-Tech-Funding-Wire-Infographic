@@ -1,119 +1,83 @@
 [
   {
-    "company": "Cryptio",
-    "amount": 38.8,
-    "sectors": ["Web3", "FinTech"],
-    "round": "Series B",
-    "hq": "Paris",
-    "investors": ["BlackFin Capital Partners", "Sentinel Global", "1kx", "Alven", "BlueYard Capital", "Ledger Cathay Capital"],
-    "date": "2026-03-20"
-  },
-  {
-    "company": "Parallel",
-    "amount": 17.3,
-    "sectors": ["HealthTech", "AI & Machine Learning"],
+    "company": "UNIVITY",
+    "amount": 27,
+    "sectors": ["SpaceTech", "DeepTech"],
     "round": "Series A",
     "hq": "Paris",
-    "investors": ["Index Ventures", "Frst", "Y Combinator", "Hexa", "Arthur Mensch", "Félix Blossier", "Quentin de Metz", "Business Angels"],
-    "date": "2026-03-20"
+    "investors": ["Blast", "France 2030", "Bpifrance"],
+    "date": "2026-04-24"
   },
   {
-    "company": "Enersweet",
-    "amount": 15,
-    "sectors": ["CleanTech", "PropTech", "SaaS & Enterprise"],
-    "round": "Growth",
+    "company": "Ouidrop",
+    "amount": 7,
+    "sectors": ["RetailTech", "Robotics", "FoodTech"],
+    "round": "Series A",
+    "hq": "Bordeaux",
+    "investors": ["Xplore", "SWEN Capital Partners", "GSO Innovation", "Crédit Agricole", "Spring Invest"],
+    "date": "2026-04-24"
+  },
+  {
+    "company": "Decade Energy",
+    "amount": 5,
+    "sectors": ["ClimateTech", "CleanTech", "Energy", "Mobility"],
+    "round": "Growth Equity",
     "hq": "Paris",
-    "investors": ["Ring Capital", "Zencap Asset Management", "Bpifrance"],
-    "date": "2026-03-20"
+    "investors": ["SET Ventures", "Eiffel Investment Group", "Ananda Impact Ventures", "Contrarian Ventures"],
+    "date": "2026-04-24"
   },
   {
-    "company": "Lupin & Holmes",
-    "amount": 5.4,
-    "sectors": ["Cybersecurity", "AI & Machine Learning"],
-    "round": "Pre-Seed",
-    "hq": "Paris",
-    "investors": ["20VC", "Seedcamp", "Kima Ventures", "Purple Ventures", "Business Angels"],
-    "date": "2026-03-20"
-  },
-  {
-    "company": "games2gether",
+    "company": "Bubble Robotics",
     "amount": 4.5,
-    "sectors": ["Gaming"],
+    "sectors": ["Robotics", "DefenseTech", "ClimateTech", "Drones"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Episode 1", "Asterion Ventures", "Norrsken Evolve"],
+    "date": "2026-04-24"
+  },
+  {
+    "company": "Axomove",
+    "amount": 4,
+    "sectors": ["HealthTech", "MedTech", "SaaS"],
     "round": "Series A",
-    "hq": "Paris",
-    "investors": ["Griffin Gaming Partners"],
-    "date": "2026-03-20"
+    "hq": "Lille",
+    "investors": ["Bpifrance", "Go Capital", "Inco Ventures", "Faraday Venture Partners"],
+    "date": "2026-04-24"
   },
   {
-    "company": "Homaio",
-    "amount": 3.6,
-    "sectors": ["FinTech", "CleanTech"],
+    "company": "Five Lives",
+    "amount": 1.9,
+    "sectors": ["HealthTech", "BrainTech", "AI"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["RAISE Ventures", "Groupe Eren", "XAnge", "Redstone", "Business Angels"],
-    "date": "2026-03-20"
+    "investors": ["Open CNP", "50 Partners", "Family Ventures", "Sowefund"],
+    "date": "2026-04-24"
   },
   {
-    "company": "Flotte",
-    "amount": 3,
-    "sectors": ["E-commerce & Retail"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Akiles", "Time4", "Daphni"],
-    "date": "2026-03-20"
-  },
-  {
-    "company": "Topograph",
-    "amount": 2,
-    "sectors": ["FinTech", "RegTech", "AI & Machine Learning"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Seedcamp", "Kima Ventures", "Motier Ventures", "Better Angle", "Drysdale Ventures"],
-    "date": "2026-03-20"
-  },
-  {
-    "company": "Jay&Joy",
-    "amount": 2,
-    "sectors": ["FoodTech"],
-    "round": "Seed",
-    "hq": "Lacroix-Saint-Ouen",
-    "investors": ["Makesense", "Beyondinvesting", "MINDSTONE", "Demea Invest", "Vivegan"],
-    "date": "2026-03-20"
-  },
-  {
-    "company": "Blify",
-    "amount": 1.8,
-    "sectors": ["AI & Machine Learning", "EdTech", "HRTech", "SaaS & Enterprise"],
+    "company": "Sillage",
+    "amount": 1.7,
+    "sectors": ["AI", "SaaS", "MarTech"],
     "round": "Pre-Seed",
     "hq": "Paris",
-    "investors": ["Ventech", "Kima Ventures", "Better Angle", "NewSchool", "Supercapital", "Fair Equity", "Business Angels", "Paul-Louis Caylar", "Nicolas Lombard", "Matthieu Birach"],
-    "date": "2026-03-20"
+    "investors": ["Super Capital", "Backfuture"],
+    "date": "2026-04-24"
   },
   {
-    "company": "Yaarz",
+    "company": "Biotech One",
     "amount": 1,
-    "sectors": ["Retail & E-Commerce", "SaaS & Enterprise"],
+    "sectors": ["BioTech", "HealthTech", "DeepTech"],
     "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Sony Music Entertainment France", "CNM", "Bpifrance", "French Fair", "Haut-Parleur Production", "Business Angels"],
-    "date": "2026-03-20"
+    "hq": "Marseille",
+    "investors": ["Région Sud Investissement", "Crédit Agricole"],
+    "date": "2026-04-24"
   },
   {
-    "company": "Cleavr",
+    "company": "minimiil",
     "amount": 1,
-    "sectors": ["FinTech", "AI & Machine Learning"],
+    "sectors": ["FoodTech", "AI"],
     "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Kima Ventures", "Better Angle", "Raphaël Nahum", "Régis Samuel", "Olivier Brourhant", "Business Angels"],
-    "date": "2026-03-20"
-  },
-  {
-    "company": "Kervalion",
-    "amount": 0.7,
-    "sectors": ["MedTech", "BioTech", "DeepTech"],
-    "round": "Seed",
-    "hq": "Montpellier",
-    "investors": ["Capital Cell", "Crowdfunding"],
-    "date": "2026-03-16"
+    "hq": "Clermont-Ferrand",
+    "investors": ["Newfund"],
+    "date": "2026-04-24"
   }
 ]
