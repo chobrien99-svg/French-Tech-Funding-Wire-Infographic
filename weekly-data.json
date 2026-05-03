@@ -1,83 +1,101 @@
 [
   {
-    "company": "UNIVITY",
-    "amount": 27,
-    "sectors": ["SpaceTech", "DeepTech"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["Blast", "France 2030", "Bpifrance"],
-    "date": "2026-04-24"
-  },
-  {
-    "company": "Ouidrop",
-    "amount": 7,
-    "sectors": ["RetailTech", "Robotics", "FoodTech"],
-    "round": "Series A",
-    "hq": "Bordeaux",
-    "investors": ["Xplore", "SWEN Capital Partners", "GSO Innovation", "Crédit Agricole", "Spring Invest"],
-    "date": "2026-04-24"
-  },
-  {
-    "company": "Decade Energy",
-    "amount": 5,
-    "sectors": ["ClimateTech", "CleanTech", "Energy", "Mobility"],
+    "company": "EVA",
+    "amount": 35,
+    "sectors": ["Gaming", "Entertainment", "SportsTech"],
     "round": "Growth Equity",
-    "hq": "Paris",
-    "investors": ["SET Ventures", "Eiffel Investment Group", "Ananda Impact Ventures", "Contrarian Ventures"],
-    "date": "2026-04-24"
+    "hq": "Montreuil",
+    "investors": ["Raise Invest"],
+    "date": "2026-05-01"
   },
   {
-    "company": "Bubble Robotics",
-    "amount": 4.5,
-    "sectors": ["Robotics", "DefenseTech", "ClimateTech", "Drones"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Episode 1", "Asterion Ventures", "Norrsken Evolve"],
-    "date": "2026-04-24"
+    "company": "Rosi",
+    "amount": 20,
+    "sectors": ["ClimateTech", "CleanTech", "Circular Economy", "Energy", "Recycling"],
+    "round": "Series B",
+    "hq": "Seyssins",
+    "investors": ["InnoEnergy", "CMA CGM", "European Innovation Council", "G3T", "Finadvice"],
+    "date": "2026-05-01"
   },
   {
-    "company": "Axomove",
-    "amount": 4,
-    "sectors": ["HealthTech", "MedTech", "SaaS"],
+    "company": "SquareMind",
+    "amount": 15.3,
+    "sectors": ["MedTech", "AI", "Robotics", "Digital Health"],
     "round": "Series A",
-    "hq": "Lille",
-    "investors": ["Bpifrance", "Go Capital", "Inco Ventures", "Faraday Venture Partners"],
-    "date": "2026-04-24"
-  },
-  {
-    "company": "Five Lives",
-    "amount": 1.9,
-    "sectors": ["HealthTech", "BrainTech", "AI"],
-    "round": "Seed",
     "hq": "Paris",
-    "investors": ["Open CNP", "50 Partners", "Family Ventures", "Sowefund"],
-    "date": "2026-04-24"
+    "investors": ["Deeptech 2030", "Bpifrance", "Sonder Capital", "Adamed", "Calm/Storm Ventures", "Teampact Ventures"],
+    "date": "2026-05-01"
   },
   {
-    "company": "Sillage",
-    "amount": 1.7,
-    "sectors": ["AI", "SaaS", "MarTech"],
-    "round": "Pre-Seed",
+    "company": "Audion",
+    "amount": 11.9,
+    "sectors": ["AdTech", "AI", "MarTech"],
+    "round": "Series B",
     "hq": "Paris",
-    "investors": ["Super Capital", "Backfuture"],
-    "date": "2026-04-24"
+    "investors": ["Elevation Capital Partners", "Founders Future", "Bpifrance"],
+    "date": "2026-05-01"
   },
   {
-    "company": "Biotech One",
-    "amount": 1,
-    "sectors": ["BioTech", "HealthTech", "DeepTech"],
+    "company": "Losanje",
+    "amount": 6.7,
+    "sectors": ["ClimateTech"],
     "round": "Seed",
-    "hq": "Marseille",
-    "investors": ["Région Sud Investissement", "Crédit Agricole"],
-    "date": "2026-04-24"
+    "hq": "Nièvre",
+    "investors": ["UI Investissement", "Crédit Agricole", "Lita", "Evolem", "Albo", "ADEME"],
+    "date": "2026-05-01"
   },
   {
-    "company": "minimiil",
-    "amount": 1,
-    "sectors": ["FoodTech", "AI"],
+    "company": "Virvolt",
+    "amount": 3,
+    "sectors": ["Mobility", "CleanTech", "Hardware"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["CoopVenture", "AfriMobility", "Business Angels", "ADEME", "France 2030"],
+    "date": "2026-05-01"
+  },
+  {
+    "company": "Tolergyx",
+    "amount": 3,
+    "sectors": ["BioTech", "HealthTech"],
     "round": "Seed",
     "hq": "Clermont-Ferrand",
-    "investors": ["Newfund"],
-    "date": "2026-04-24"
+    "investors": ["Business Angels"],
+    "date": "2026-05-01"
+  },
+  {
+    "company": "Faactopi",
+    "amount": 3,
+    "sectors": ["Robotics", "DeepTech"],
+    "round": "Seed",
+    "hq": "Vénissieux",
+    "investors": ["Innovacom"],
+    "date": "2026-05-01"
+  },
+  {
+    "company": "Askleia",
+    "amount": 2.3,
+    "sectors": ["BioTech", "DeepTech"],
+    "round": "Pre-Seed",
+    "hq": "Aubagne",
+    "investors": ["iXcore"],
+    "date": "2026-05-01"
+  },
+  {
+    "company": "Hectarea",
+    "amount": 1.5,
+    "sectors": ["AgriTech", "FinTech", "ClimateTech"],
+    "round": "Seed",
+    "hq": "Castres-Gironde",
+    "investors": ["Invess Île-de-France Amorçage", "KissKissBankBank Studio", "Albo", "Business Angels"],
+    "date": "2026-05-01"
+  },
+  {
+    "company": "Novaleum",
+    "amount": 1,
+    "sectors": ["ClimateTech", "Energy"],
+    "round": "Seed",
+    "hq": "Lyon",
+    "investors": ["Business Angels", "Bpifrance"],
+    "date": "2026-05-01"
   }
 ]
