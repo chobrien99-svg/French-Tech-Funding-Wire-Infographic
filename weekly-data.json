@@ -1,101 +1,92 @@
 [
   {
-    "company": "EVA",
-    "amount": 35,
-    "sectors": ["Gaming", "Entertainment", "SportsTech"],
+    "company": "LegalPlace",
+    "amount": 70,
+    "sectors": ["LegalTech", "FinTech", "AI", "SaaS"],
     "round": "Growth Equity",
-    "hq": "Montreuil",
-    "investors": ["Raise Invest"],
-    "date": "2026-05-01"
-  },
-  {
-    "company": "Rosi",
-    "amount": 20,
-    "sectors": ["ClimateTech", "CleanTech", "Circular Economy", "Energy", "Recycling"],
-    "round": "Series B",
-    "hq": "Seyssins",
-    "investors": ["InnoEnergy", "CMA CGM", "European Innovation Council", "G3T", "Finadvice"],
-    "date": "2026-05-01"
-  },
-  {
-    "company": "SquareMind",
-    "amount": 15.3,
-    "sectors": ["MedTech", "AI", "Robotics", "Digital Health"],
-    "round": "Series A",
     "hq": "Paris",
-    "investors": ["Deeptech 2030", "Bpifrance", "Sonder Capital", "Adamed", "Calm/Storm Ventures", "Teampact Ventures"],
-    "date": "2026-05-01"
+    "investors": ["XAnge", "Eurazeo", "Move Capital Fund I"],
+    "date": "2026-05-08"
   },
   {
-    "company": "Audion",
+    "company": "Lithosquare",
+    "amount": 22.2,
+    "sectors": ["ClimateTech", "AI", "DeepTech"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["World Fund", "Kindred Capital", "Daphni", "Omnes Capital"],
+    "date": "2026-05-08"
+  },
+  {
+    "company": "OpsMill",
     "amount": 11.9,
-    "sectors": ["AdTech", "AI", "MarTech"],
-    "round": "Series B",
-    "hq": "Paris",
-    "investors": ["Elevation Capital Partners", "Founders Future", "Bpifrance"],
-    "date": "2026-05-01"
-  },
-  {
-    "company": "Losanje",
-    "amount": 6.7,
-    "sectors": ["ClimateTech"],
-    "round": "Seed",
-    "hq": "Nièvre",
-    "investors": ["UI Investissement", "Crédit Agricole", "Lita", "Evolem", "Albo", "ADEME"],
-    "date": "2026-05-01"
-  },
-  {
-    "company": "Virvolt",
-    "amount": 3,
-    "sectors": ["Mobility", "CleanTech", "Hardware"],
+    "sectors": ["SaaS", "AI"],
     "round": "Series A",
     "hq": "Paris",
-    "investors": ["CoopVenture", "AfriMobility", "Business Angels", "ADEME", "France 2030"],
-    "date": "2026-05-01"
+    "investors": ["IRIS", "BGV", "Serena", "Partech"],
+    "date": "2026-05-08"
   },
   {
-    "company": "Tolergyx",
-    "amount": 3,
-    "sectors": ["BioTech", "HealthTech"],
+    "company": "Signadori Bio",
+    "amount": 11.1,
+    "sectors": ["BioTech"],
     "round": "Seed",
-    "hq": "Clermont-Ferrand",
-    "investors": ["Business Angels"],
-    "date": "2026-05-01"
+    "hq": "Paris",
+    "investors": ["Taiho Ventures", "Sofinnova Partners", "Invivo Partners"],
+    "date": "2026-05-08"
   },
   {
-    "company": "Faactopi",
-    "amount": 3,
-    "sectors": ["Robotics", "DeepTech"],
-    "round": "Seed",
-    "hq": "Vénissieux",
-    "investors": ["Innovacom"],
-    "date": "2026-05-01"
-  },
-  {
-    "company": "Askleia",
-    "amount": 2.3,
-    "sectors": ["BioTech", "DeepTech"],
+    "company": "Davis",
+    "amount": 4.6,
+    "sectors": ["PropTech", "AI"],
     "round": "Pre-Seed",
-    "hq": "Aubagne",
-    "investors": ["iXcore"],
-    "date": "2026-05-01"
+    "hq": "Paris",
+    "investors": ["Heartcore Capital", "Balderton Capital", "Yellow", "Evantic", "Entrepreneurs First", "Business Angels"],
+    "date": "2026-05-08"
   },
   {
-    "company": "Hectarea",
-    "amount": 1.5,
-    "sectors": ["AgriTech", "FinTech", "ClimateTech"],
-    "round": "Seed",
-    "hq": "Castres-Gironde",
-    "investors": ["Invess Île-de-France Amorçage", "KissKissBankBank Studio", "Albo", "Business Angels"],
-    "date": "2026-05-01"
+    "company": "OneFlash",
+    "amount": 3.5,
+    "sectors": ["Mobility", "Energy"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["Blast Club", "Historical Investors", "Bank Financing"],
+    "date": "2026-05-08"
   },
   {
-    "company": "Novaleum",
-    "amount": 1,
-    "sectors": ["ClimateTech", "Energy"],
+    "company": "Nelson",
+    "amount": 3,
+    "sectors": ["Mobility", "ClimateTech", "SaaS"],
     "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Asterion Ventures", "La Poste Ventures", "EIT Urban Mobility", "Climate Club", "Business Angels"],
+    "date": "2026-05-08"
+  },
+  {
+    "company": "Huelco",
+    "amount": 2.5,
+    "sectors": ["PropTech", "ClimateTech", "Hardware"],
+    "round": "Seed",
+    "hq": "Moirans",
+    "investors": ["Financière de Sorlin", "LVMA", "Gestion Tourisme et Immobilier", "Gacherey Holding", "Bpifrance", "Société Générale", "BNP Paribas", "Crédit Coopératif"],
+    "date": "2026-05-08"
+  },
+  {
+    "company": "Objow",
+    "amount": 2,
+    "sectors": ["SaaS"],
+    "round": "Funding Round",
     "hq": "Lyon",
+    "investors": ["Edenred Ventures", "Crédit Agricole Création", "HUB612 Caisse d'Epargne", "Holnest", "Aonia Ventures", "Patrick Bertrand", "Olivier Brourhant", "Stéphane Assuid", "Xavier Roussillon"],
+    "date": "2026-05-08"
+  },
+  {
+    "company": "Kacentric Optics",
+    "amount": 1.2,
+    "sectors": ["DeepTech"],
+    "round": "Seed",
+    "hq": "Lannion",
     "investors": ["Business Angels", "Bpifrance"],
-    "date": "2026-05-01"
+    "date": "2026-05-08"
   }
 ]
