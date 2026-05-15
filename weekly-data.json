@@ -63,15 +63,6 @@
     "date": "2026-05-15"
   },
   {
-    "company": "Askleia",
-    "amount": 2.3,
-    "sectors": ["BioTech", "DeepTech"],
-    "round": "Seed",
-    "hq": "Aubagne",
-    "investors": ["Historical Shareholders", "iXcore"],
-    "date": "2026-05-15"
-  },
-  {
     "company": "TwoWay",
     "amount": 1.5,
     "sectors": ["FinTech"],
