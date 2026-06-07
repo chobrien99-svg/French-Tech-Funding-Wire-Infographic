@@ -1,110 +1,74 @@
 [
   {
-    "company": "MokN",
-    "amount": 12.87,
-    "sectors": ["Cybersecurity", "AI"],
+    "company": "Quobly",
+    "amount": 115,
+    "sectors": ["Quantum Computing", "DeepTech"],
     "round": "Series A",
-    "hq": "Paris",
-    "investors": ["GV (Google Ventures)", "Datadog", "Moonfire", "OVNI Capital"],
-    "date": "2026-05-29"
+    "hq": "Grenoble",
+    "investors": ["STMicroelectronics", "Bpifrance", "SEALSQ", "Isalt"],
+    "date": "2026-06-05"
   },
   {
-    "company": "Opal",
-    "amount": 8.58,
-    "sectors": ["AI", "HealthTech"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Adjacent", "Speedinvest", "Night Capital", "Tony Fadell", "Severin Hacker", "Elad Gil", "Mathilde Collin", "Business Angels"],
-    "date": "2026-05-29"
-  },
-  {
-    "company": "Olyzon",
-    "amount": 8.58,
-    "sectors": ["MarTech", "AI"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["S4S Ventures", "Eurazeo"],
-    "date": "2026-05-29"
-  },
-  {
-    "company": "VorteX-io",
-    "amount": 8.5,
-    "sectors": ["ClimateTech", "DeepTech"],
-    "round": "Series A",
-    "hq": "Toulouse",
-    "investors": ["Seventure Partners", "Banque des Territoires", "Daphni"],
-    "date": "2026-05-29"
-  },
-  {
-    "company": "ThIA Santé Mentale",
-    "amount": 5,
-    "sectors": ["HealthTech", "AI"],
+    "company": "Innovafeed",
+    "amount": 51,
+    "sectors": ["AgriTech", "FoodTech", "ClimateTech"],
     "round": "Growth Equity",
-    "hq": "Montpellier",
-    "investors": ["IRDI Capital Investissement", "Sofilaro Innovation", "Generali", "AG2R La Mondiale", "Tudigo investors", "Practitioner Partners"],
-    "date": "2026-05-29"
+    "hq": "Paris",
+    "investors": ["Creadev", "Qatar Investment Authority", "Temasek", "French Future Champions", "ABC Impact", "ADM"],
+    "date": "2026-06-05"
   },
   {
-    "company": "Certo",
-    "amount": 2.96,
-    "sectors": ["AI", "Compliance", "SaaS"],
+    "company": "Innovorder",
+    "amount": 20,
+    "sectors": ["FoodTech", "SaaS", "AI"],
+    "round": "Growth Equity",
+    "hq": "Paris",
+    "investors": ["UL Invest", "Evolem"],
+    "date": "2026-06-05"
+  },
+  {
+    "company": "NP Co.",
+    "amount": 6,
+    "sectors": ["AI", "DeepTech"],
+    "round": "Pre-Seed",
+    "hq": "Paris",
+    "investors": ["Partech", "Guillaume Lample", "Cédric O", "Peugeot Family Office", "Florian Douetteau", "Vincent Luciani"],
+    "date": "2026-06-05"
+  },
+  {
+    "company": "noa",
+    "amount": 5,
+    "sectors": ["FitnessTech", "HealthTech", "Consumer Apps", "Wellness", "AI"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Daphni", "Entrepreneurs First", "Motier Ventures", "Transpose Platform"],
-    "date": "2026-05-29"
+    "investors": ["Founders Future", "Kima Ventures", "Drysdale", "Eden", "Intuition", "Business Angels"],
+    "date": "2026-06-05"
   },
   {
-    "company": "Otomato",
-    "amount": 1.72,
-    "sectors": ["Web3", "AI"],
+    "company": "Upstream",
+    "amount": 2.61,
+    "sectors": ["AI", "SaaS"],
+    "round": "Pre-Seed",
+    "hq": "Paris",
+    "investors": ["Y Combinator", "Connect Ventures", "Business Angels"],
+    "date": "2026-06-05"
+  },
+  {
+    "company": "Primomanda",
+    "amount": 0.6,
+    "sectors": ["PropTech", "SaaS"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Improbable"],
-    "date": "2026-05-29"
+    "investors": ["Patrick Dalsace", "Thierry Herrmann", "Stéphane Le Guen", "Christian Terrassoux", "Tatiana Terrassoux", "Business Angels"],
+    "date": "2026-06-05"
   },
   {
-    "company": "MySunBed",
-    "amount": 1.6,
-    "sectors": ["TravelTech", "SaaS"],
-    "round": "Seed",
-    "hq": "Nice",
-    "investors": ["Undisclosed"],
-    "date": "2026-05-29"
-  },
-  {
-    "company": "Leedflow",
-    "amount": 1.5,
-    "sectors": ["PropTech", "AI"],
-    "round": "Seed",
-    "hq": "Nice",
-    "investors": ["Business Angels", "Édouard Le Goff", "Vincent de Saint Sernin"],
-    "date": "2026-05-29"
-  },
-  {
-    "company": "K-Ren",
-    "amount": 1.2,
-    "sectors": ["CleanTech", "DeepTech"],
-    "round": "Seed",
-    "hq": "Mauguio",
-    "investors": ["Sud Mer Invest", "Frédéric Mazzella", "Alexis Mulliez", "Jean-Paul Costes", "Jean-Marc Le Doussal", "Sébastien Lacaze", "Bpifrance", "Banque Populaire du Sud", "Caisse d'Epargne", "Business Angels"],
-    "date": "2026-05-29"
-  },
-  {
-    "company": "Jinka",
-    "amount": 1,
-    "sectors": ["PropTech", "AI", "SaaS"],
-    "round": "Debt",
+    "company": "Tiva",
+    "amount": 0.525,
+    "sectors": ["SportsTech", "HealthTech"],
+    "round": "Pre-Seed",
     "hq": "Paris",
-    "investors": ["Undisclosed"],
-    "date": "2026-05-29"
-  },
-  {
-    "company": "Orakle Weather",
-    "amount": 0.48,
-    "sectors": ["InsurTech", "TravelTech"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Undisclosed"],
-    "date": "2026-05-29"
+    "investors": ["Apex", "Elina Svitolina", "Eno Polo", "Lars Jonker", "Alberto Uncini Manganelli", "Momentous Ventures", "Business Angels"],
+    "date": "2026-06-05"
   }
 ]
