@@ -1,110 +1,83 @@
 [
   {
-    "company": "Morpho",
-    "amount": 151.1,
-    "sectors": ["FinTech", "Web3"],
-    "round": "Growth Round",
-    "hq": "Paris",
-    "investors": ["Paradigm", "a16z crypto", "Ribbit Capital", "Apollo Funds", "Circle Ventures", "VanEck", "Ledger Cathay Capital", "Variant", "Wintermute Ventures", "Prelude", "IOSG", "HashKey", "Mirana", "NJJ Capital", "SBI Group", "Bpifrance", "Bam Azizi"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Alta Ares",
-    "amount": 50,
-    "sectors": ["DefenseTech", "AI", "Drones"],
+    "company": "Comand AI",
+    "amount": 32,
+    "sectors": ["DefenseTech", "AI"],
     "round": "Series A",
     "hq": "Paris",
-    "investors": ["Air Street Capital", "Cherry Ventures", "OTB Ventures", "Harpoon"],
-    "date": "2026-06-12"
+    "investors": ["Blossom Capital", "Saab", "Expeditions"],
+    "date": "2026-06-16"
   },
   {
-    "company": "Eclipse",
+    "company": "Prophesee",
     "amount": 20,
-    "sectors": ["ClimateTech", "Energy", "AI"],
-    "round": "Series A",
+    "sectors": ["DefenseTech", "Drones", "AI", "DeepTech"],
+    "round": "Growth Equity",
     "hq": "Paris",
-    "investors": ["Noria", "BNP Paribas"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Mendo",
-    "amount": 12,
-    "sectors": ["AI", "SaaS"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["Ventech", "Educapital", "Tomcat", "OVNI"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Finovox",
-    "amount": 8.2,
-    "sectors": ["FinTech", "InsurTech", "Cybersecurity", "AI"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["TX Ventures", "Auriga Cyber Ventures II", "MTech Capital", "Start Ventures", "Force Over Mass", "FDJ UNITED Ventures", "Blast Club", "Groupe IMA"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Seacure",
-    "amount": 7.4,
-    "sectors": ["ClimateTech", "DeepTech"],
-    "round": "Growth Round",
-    "hq": "Marseille",
-    "investors": ["Fonds Révolution Environnementale et Solidaire (Crédit Mutuel Impact)", "Truffle Capital", "Business Angels"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Kyber",
-    "amount": 4.3,
-    "sectors": ["AI", "Robotics", "DefenseTech", "Drones"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Lightspeed Venture Partners", "OVNI Capital", "Kima Ventures"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Rematch",
-    "amount": 3,
-    "sectors": ["SportsTech", "Entertainment", "AI"],
-    "round": "Growth Funding Round",
-    "hq": "Bordeaux",
-    "investors": ["Intervalle Capital", "Stéphanie Gottlib-Zeh", "Erik Rosengren", "Rightbear Holding", "Bpifrance"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Builder Assist",
-    "amount": 2,
-    "sectors": ["Robotics", "DeepTech", "PropTech"],
-    "round": "Pre-Seed",
-    "hq": "Toulouse",
     "investors": ["Undisclosed"],
-    "date": "2026-06-12"
+    "date": "2026-06-16"
   },
   {
-    "company": "Hit Mag",
-    "amount": 1.6,
-    "sectors": ["CleanTech", "DeepTech"],
-    "round": "Seed",
-    "hq": "Plouzané",
-    "investors": ["Lita", "Bpifrance", "SATT Ouest Valorisation", "Breizh Up", "Business Angels du Finistère", "Business Angels d'Ille-et-Vilaine"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Réempro",
-    "amount": 1.6,
-    "sectors": ["CleanTech", "ClimateTech"],
-    "round": "Growth Financing",
-    "hq": "Sequedin",
-    "investors": ["MakeSense Seed II", "Finorpa SCR", "Bank Financing"],
-    "date": "2026-06-12"
-  },
-  {
-    "company": "Mobioos",
-    "amount": 1.3,
-    "sectors": ["AI", "SaaS"],
-    "round": "Pre-Seed",
+    "company": "Rocapine",
+    "amount": 8.5,
+    "sectors": ["HealthTech", "AI"],
+    "round": "Series A",
     "hq": "Paris",
-    "investors": ["Bombellii Ventures", "Pierre Etienne Lorenceau", "Myriam Maestroni", "Gerald Maradan", "Youcef Ramdane"],
-    "date": "2026-06-12"
+    "investors": ["Educapital", "Daphni", "Ring Capital", "Center Court Capital", "Athletico Ventures", "Better Angle", "Jean-Charles Samuelian-Werve", "Business Angels"],
+    "date": "2026-06-16"
+  },
+  {
+    "company": "Green-Got",
+    "amount": 8,
+    "sectors": ["FinTech", "GreenTech", "ClimateTech"],
+    "round": "Crowdfunding Round",
+    "hq": "Paris",
+    "investors": ["Crowdfunding"],
+    "date": "2026-06-16"
+  },
+  {
+    "company": "CardNexus",
+    "amount": 3.5,
+    "sectors": ["Gaming", "AI", "FinTech"],
+    "round": "Pre-Seed",
+    "hq": "Bordeaux",
+    "investors": ["Piton Capital", "Motier", "FSJ", "OPRTRS", "Kima Ventures", "Aquiti", "Business Angels"],
+    "date": "2026-06-16"
+  },
+  {
+    "company": "Osmos X",
+    "amount": 2,
+    "sectors": ["SpaceTech", "Aerospace", "DefenseTech"],
+    "round": "Seed",
+    "hq": "Rennes",
+    "investors": ["Expansion", "Rymdkapital", "Jean-Jacques Dordain", "Business Angels"],
+    "date": "2026-06-16"
+  },
+  {
+    "company": "NotiPark",
+    "amount": 1.7,
+    "sectors": ["Mobility", "SaaS"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Sowefund", "N1 Investment Company", "Bpifrance Digital Venture", "Business Angels", "Undisclosed"],
+    "date": "2026-06-16"
+  },
+  {
+    "company": "Eledone",
+    "amount": 1.5,
+    "sectors": ["AI", "SaaS"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Wind", "Business Angels"],
+    "date": "2026-06-16"
+  },
+  {
+    "company": "Aiffin",
+    "amount": 0.625,
+    "sectors": ["FinTech", "Mobility", "AI"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Undisclosed"],
+    "date": "2026-06-16"
   }
 ]
