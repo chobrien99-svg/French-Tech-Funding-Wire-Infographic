@@ -1,146 +1,47 @@
 [
   {
-    "company": "Alan",
-    "amount": 480,
-    "sectors": ["InsurTech", "AI"],
-    "round": "Growth Round",
-    "hq": "Paris",
-    "investors": ["Prosus", "Teachers' Venture Growth", "Index Ventures", "Dara Holdings"],
-    "date": "2026-06-26"
+    "company": "Elixir Aircraft",
+    "amount": 45,
+    "sectors": ["Aerospace"],
+    "round": "Growth Equity",
+    "hq": "La Rochelle",
+    "investors": ["Bpifrance", "Odyssée Venture", "Innovacom"],
+    "date": "2026-07-03"
   },
   {
-    "company": "Bionyra Pharma",
-    "amount": 140,
-    "sectors": ["BioTech", "HealthTech"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["Jeito Capital", "Sofinnova Partners", "Arkin Bio", "Sanofi Ventures", "Sixty Degree Capital", "Vives Partners", "Apollo Health Ventures"],
-    "date": "2026-06-26"
+    "company": "Amarris",
+    "amount": 15,
+    "sectors": ["FinTech"],
+    "round": "Growth Equity",
+    "hq": "Saint-Herblain",
+    "investors": ["Naxicap Partners", "BNP Paribas Développement", "Arkéa Capital", "Ouest Croissance", "Management Shareholders"],
+    "date": "2026-07-03"
   },
   {
-    "company": "TISSIUM",
-    "amount": 30,
-    "sectors": ["MedTech", "BioTech"],
-    "round": "Series D",
-    "hq": "Paris",
-    "investors": ["Undisclosed"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Tsuga",
-    "amount": 30,
-    "sectors": ["AI", "SaaS"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["Singular", "General Catalyst", "DST Global Partners", "QuantumLight", "Picus", "Databricks Ventures"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "AlpSemi",
-    "amount": 17,
-    "sectors": ["Semiconductors", "AI", "ClimateTech", "DeepTech"],
-    "round": "Seed",
-    "hq": "Grenoble",
-    "investors": ["Yotta Capital", "SE Ventures", "Navitas Semiconductor", "Cycle Group"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Flease",
-    "amount": 13,
-    "sectors": ["Mobility", "ClimateTech", "SaaS"],
-    "round": "Series A",
-    "hq": "Lyon",
-    "investors": ["Partech"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Linc",
-    "amount": 8.5,
-    "sectors": ["SaaS", "FinTech", "AI"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Headline", "Resonance", "Founders Future", "Acadian Ventures", "Adnexus", "50 Partners", "Motier", "199 Ventures", "Aonia", "Better Angle", "Clover", "Business Angels"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Sopht",
-    "amount": 5,
-    "sectors": ["ClimateTech", "AI"],
-    "round": "Series A",
-    "hq": "Lyon",
-    "investors": ["Ternel", "Axeleo Capital", "Wind Capital", "FDJ United Ventures"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Blyyd",
-    "amount": 5,
+    "company": "Tallano Technologies",
+    "amount": 10,
     "sectors": ["CleanTech", "Mobility"],
     "round": "Growth Equity",
-    "hq": "Lyon",
-    "investors": ["Meridiam"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Wheere",
-    "amount": 4.2,
-    "sectors": ["SpaceTech", "DeepTech", "Semiconductors"],
-    "round": "Seed Extension",
-    "hq": "Montpellier",
-    "investors": ["Blast Club", "Éric Larchevêque", "Sofilaro", "Business Angels"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Cardiawave",
-    "amount": 3.8,
-    "sectors": ["MedTech", "HealthTech", "DeepTech"],
-    "round": "Growth Equity",
-    "hq": "Levallois-Perret",
-    "investors": ["Capital Cell"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Macrodata Labs",
-    "amount": 3.6,
-    "sectors": ["AI", "Robotics"],
-    "round": "Pre-Seed",
     "hq": "Paris",
-    "investors": ["Air Street Capital", "Kima Ventures", "Thomas Wolf", "Drysdale Ventures", "OPRTRS CLUB", "commit", "YG Ventures"],
-    "date": "2026-06-26"
+    "investors": ["MEAC", "Bpifrance", "France 2030", "PRVF", "Business Angels"],
+    "date": "2026-07-03"
   },
   {
-    "company": "Haiku",
-    "amount": 3,
-    "sectors": ["LegalTech", "AI", "SaaS"],
+    "company": "Loumo",
+    "amount": 1,
+    "sectors": ["EdTech", "AI"],
     "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Newfund Capital", "M Capital"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Concord",
-    "amount": 2.63,
-    "sectors": ["AdTech", "AI", "SaaS"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["A16Z Scout", "Drysdale", "Motier Ventures", "Better Angle", "Rémi Lemonnier", "Philippe Corrot", "Arthur Querou", "Thomas Zaepffel", "Business Angels"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Beams",
-    "amount": 1.5,
-    "sectors": ["MedTech"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Bpifrance", "Business Angels"],
-    "date": "2026-06-26"
-  },
-  {
-    "company": "Fascent",
-    "amount": 1.3,
-    "sectors": ["E-commerce & Retail"],
-    "round": "Seed",
-    "hq": "Paris",
+    "hq": "Lille",
     "investors": ["Business Angels"],
-    "date": "2026-06-26"
+    "date": "2026-07-03"
+  },
+  {
+    "company": "My Hospitel",
+    "amount": 0.2,
+    "sectors": ["HealthTech", "Digital Health"],
+    "round": "Seed",
+    "hq": "France",
+    "investors": ["Angels Santé", "INSA Angels", "Tudigo", "Crowdfunding", "Business Angels"],
+    "date": "2026-07-03"
   }
 ]
