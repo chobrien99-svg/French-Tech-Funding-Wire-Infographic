@@ -1,47 +1,110 @@
 [
   {
-    "company": "Elixir Aircraft",
-    "amount": 45,
-    "sectors": ["Aerospace"],
-    "round": "Growth Equity",
-    "hq": "La Rochelle",
-    "investors": ["Bpifrance", "Odyssée Venture", "Innovacom"],
-    "date": "2026-07-03"
-  },
-  {
-    "company": "Amarris",
-    "amount": 15,
-    "sectors": ["FinTech"],
-    "round": "Growth Equity",
-    "hq": "Saint-Herblain",
-    "investors": ["Naxicap Partners", "BNP Paribas Développement", "Arkéa Capital", "Ouest Croissance", "Management Shareholders"],
-    "date": "2026-07-03"
-  },
-  {
-    "company": "Tallano Technologies",
-    "amount": 10,
-    "sectors": ["CleanTech", "Mobility"],
+    "company": "Skello",
+    "amount": 150,
+    "sectors": ["HRTech", "SaaS", "AI"],
     "round": "Growth Equity",
     "hq": "Paris",
-    "investors": ["MEAC", "Bpifrance", "France 2030", "PRVF", "Business Angels"],
-    "date": "2026-07-03"
+    "investors": ["Bridgepoint", "Partech", "XAnge"],
+    "date": "2026-07-10"
   },
   {
-    "company": "Loumo",
+    "company": "Cyllene Therapeutics",
+    "amount": 33,
+    "sectors": ["BioTech"],
+    "round": "Series C",
+    "hq": "Paris",
+    "investors": ["GordonMD Global Investments", "M Ventures", "Andera Partners", "Bpifrance", "Lamond Ventures"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "Gradium",
+    "amount": 26.3,
+    "sectors": ["AI"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["NVIDIA"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "ZML",
+    "amount": 17.2,
+    "sectors": ["AI"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["20VC", ">commit", "AALVC", "Drysdale Ventures", "Kima Ventures", "Kindred Capital", "LocalGlobe", "Puzzle Ventures"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "Bohr Energie",
+    "amount": 10,
+    "sectors": ["Energy", "AI"],
+    "round": "Series A",
+    "hq": "Toulouse",
+    "investors": ["Suma Capital", "Irdi Capital Investissement", "GSO Capital", "Crédit Agricole", "Varsity", "Founders Future", "AFI Ventures"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "Aria",
+    "amount": 7,
+    "sectors": ["FinTech"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["115K", "13books Capital", "Nomura", "Fost", "Sienna", "Montpensier Arbevel"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "Naaia",
+    "amount": 6,
+    "sectors": ["AI", "SaaS"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["Ventech"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "Click&Care",
+    "amount": 5,
+    "sectors": ["HealthTech"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["SWEN Capital Partners", "InvESS Île-de-France Développement", "Banque des Territoires"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "Panora",
+    "amount": 4.4,
+    "sectors": ["InsurTech", "AI"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["ISAI", "Kima Ventures", "100in", "199 Ventures", "Business Angels"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "En Carta Diagnostics",
+    "amount": 3,
+    "sectors": ["MedTech", "DeepTech"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Blue Forest Ventures", "Ring Capital", "CentraleSupélec Venture", "50 Partners Health", "Bpifrance", "Business Angels"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "Rivage",
+    "amount": 1.5,
+    "sectors": ["PropTech", "AI"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Kima Ventures", "Business Angels"],
+    "date": "2026-07-10"
+  },
+  {
+    "company": "W Platform",
     "amount": 1,
-    "sectors": ["EdTech", "AI"],
+    "sectors": ["ClimateTech"],
     "round": "Seed",
-    "hq": "Lille",
-    "investors": ["Business Angels"],
-    "date": "2026-07-03"
-  },
-  {
-    "company": "My Hospitel",
-    "amount": 0.2,
-    "sectors": ["HealthTech", "Digital Health"],
-    "round": "Seed",
-    "hq": "France",
-    "investors": ["Angels Santé", "INSA Angels", "Tudigo", "Crowdfunding", "Business Angels"],
-    "date": "2026-07-03"
+    "hq": "Bordeaux",
+    "investors": ["Vitirev Innovation", "Demea Invest", "Tudigo"],
+    "date": "2026-07-10"
   }
 ]
