@@ -1,47 +1,65 @@
 [
   {
-    "company": "Syntetica",
+    "company": "Arrakis Technologies",
     "amount": 25.8,
-    "sectors": ["DeepTech", "Circular Economy"],
+    "sectors": ["SaaS", "AI"],
     "round": "Series A",
     "hq": "Paris",
-    "investors": ["Bpifrance", "SWEN Capital Partners", "EQT Ventures", "Lululemon", "MAS Holdings", "Family Offices"],
-    "date": "2026-07-17"
+    "investors": ["Blossom Capital", "Accel", "GFC", "MainObject", "Rerail", "Olivier Pomel", "Olivier Godement", "Junaid Hussain", "Business Angels"],
+    "date": "2026-07-25"
   },
   {
-    "company": "NeoCem",
-    "amount": 17,
-    "sectors": ["ClimateTech", "DeepTech"],
+    "company": "Ascendance Flight Technologies",
+    "amount": 14,
+    "sectors": ["Aerospace", "CleanTech"],
     "round": "Series B",
-    "hq": "Hallennes-lez-Haubourdin",
-    "investors": ["Crédit Mutuel Impact"],
-    "date": "2026-07-17"
+    "hq": "Toulouse",
+    "investors": ["Bpifrance", "Dassault", "Expansion", "Celeste Management", "M Capital", "Aris Occitane", "Sowefund"],
+    "date": "2026-07-25"
   },
   {
-    "company": "Engo",
-    "amount": 5.1,
-    "sectors": ["SportsTech", "Augmented Reality"],
-    "round": "Series A",
-    "hq": "Grenoble",
-    "investors": ["Ventech", "Odyssée Venture", "Bpifrance"],
-    "date": "2026-07-17"
+    "company": "Carsup",
+    "amount": 12,
+    "sectors": ["AI", "Mobility"],
+    "round": "Series B",
+    "hq": "Orléans",
+    "investors": ["Ferrari Family"],
+    "date": "2026-07-25"
   },
   {
-    "company": "Stracker",
-    "amount": 2.5,
-    "sectors": ["AI"],
+    "company": "Brenus Pharma",
+    "amount": 11,
+    "sectors": ["BioTech"],
+    "round": "Series A Extension",
+    "hq": "Lyon",
+    "investors": ["Sambrinvest", "Korea Omega Investment Corp", "Angelor", "UI Investissement", "Crédit Agricole", "Noshaq", "Orsa", "BIO JAG", "Bpifrance"],
+    "date": "2026-07-25"
+  },
+  {
+    "company": "Womed",
+    "amount": 7.1,
+    "sectors": ["MedTech"],
+    "round": "Seed",
+    "hq": "Montpellier",
+    "investors": ["IRDI Capital Investissement", "CEMAG", "CANTRAK", "Lita", "Capital Cell"],
+    "date": "2026-07-25"
+  },
+  {
+    "company": "Recupere Metals",
+    "amount": 5,
+    "sectors": ["DeepTech"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Blast", "Bpifrance", "Side Capital", "Holnest"],
-    "date": "2026-07-17"
+    "investors": ["SistaFund", "Norrsken Evolve", "Endgame Capital", "Ring Capital", "Triple Impact Ventures", "Ventures Together", "Earth Capital", "Sake Bosch", "Business Angels"],
+    "date": "2026-07-25"
   },
   {
-    "company": "Mio",
-    "amount": 1.9,
-    "sectors": ["AI", "SaaS"],
-    "round": "Pre-Seed",
-    "hq": "Paris",
-    "investors": ["Fabric.vc", "Topology.vc"],
-    "date": "2026-07-17"
+    "company": "Hekat Fluidics",
+    "amount": 2.4,
+    "sectors": ["BioTech"],
+    "round": "Seed",
+    "hq": "Pessac",
+    "investors": ["Hervé Ariditty", "Nicolas Kompalitch", "Région Nouvelle-Aquitaine", "Business Angels"],
+    "date": "2026-07-25"
   }
 ]
