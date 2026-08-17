@@ -1,65 +1,65 @@
 [
   {
-    "company": "Arrakis Technologies",
-    "amount": 25.8,
-    "sectors": ["SaaS", "AI"],
-    "round": "Series A",
-    "hq": "London, Paris",
-    "investors": ["Blossom Capital", "Accel", "GFC", "MainObject", "Rerail", "Olivier Pomel", "Olivier Godement", "Junaid Hussain", "Business Angels"],
-    "date": "2026-07-25"
+    "company": "Chargepoly",
+    "amount": 23,
+    "sectors": ["CleanTech", "Mobility"],
+    "round": "Growth Equity",
+    "hq": "Aix-en-Provence",
+    "investors": ["Meridiam Green Impact Growth Fund", "Fideve Groupe"],
+    "date": "2026-07-31"
   },
   {
-    "company": "Ascendance Flight Technologies",
-    "amount": 14,
-    "sectors": ["Aerospace", "CleanTech"],
-    "round": "Series B",
-    "hq": "Toulouse",
-    "investors": ["Bpifrance", "Dassault", "Expansion", "Celeste Management", "M Capital", "Aris Occitane", "Sowefund"],
-    "date": "2026-07-25"
+    "company": "Eurodia",
+    "amount": 18,
+    "sectors": ["DeepTech", "CleanTech"],
+    "round": "Growth Equity",
+    "hq": "Pertuis",
+    "investors": ["Starquest Capital", "Yotta Capital Partners"],
+    "date": "2026-07-31"
   },
   {
-    "company": "Carsup",
-    "amount": 12,
-    "sectors": ["AI", "Mobility"],
-    "round": "Series B",
-    "hq": "Orléans",
-    "investors": ["Ferrari Family"],
-    "date": "2026-07-25"
-  },
-  {
-    "company": "Brenus Pharma",
+    "company": "Neverhack",
     "amount": 11,
-    "sectors": ["BioTech"],
-    "round": "Series A Extension",
-    "hq": "Lyon",
-    "investors": ["Sambrinvest", "Korea Omega Investment Corp", "Angelor", "UI Investissement", "Crédit Agricole", "Noshaq", "Orsa", "BIO JAG", "Bpifrance"],
-    "date": "2026-07-25"
+    "sectors": ["Cybersecurity", "AI"],
+    "round": "Series A",
+    "hq": "Guyancourt",
+    "investors": ["Carlyle", "IK Partners"],
+    "date": "2026-07-31"
   },
   {
-    "company": "Womed",
-    "amount": 7.1,
-    "sectors": ["MedTech"],
-    "round": "Seed",
-    "hq": "Montpellier",
-    "investors": ["IRDI Capital Investissement", "CEMAG", "CANTRAK", "Lita", "Capital Cell"],
-    "date": "2026-07-25"
-  },
-  {
-    "company": "Recupere Metals",
-    "amount": 5,
-    "sectors": ["DeepTech"],
+    "company": "SkinBit",
+    "amount": 5.16,
+    "sectors": ["HealthTech", "MedTech", "BioTech", "AI", "DeepTech"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["SistaFund", "Norrsken Evolve", "Endgame Capital", "Ring Capital", "Triple Impact Ventures", "Ventures Together", "Earth Capital", "Sake Bosch", "Business Angels"],
-    "date": "2026-07-25"
+    "investors": ["Boost VC", "Cleo Capital", "Manna Ventures", "Profluent Capital", "Logan Green", "Business Angels"],
+    "date": "2026-07-31"
   },
   {
-    "company": "Hekat Fluidics",
-    "amount": 2.4,
-    "sectors": ["BioTech"],
+    "company": "AMDB Security Pro",
+    "amount": 2.68,
+    "sectors": ["DeepTech"],
     "round": "Seed",
-    "hq": "Pessac",
-    "investors": ["Hervé Ariditty", "Nicolas Kompalitch", "Région Nouvelle-Aquitaine", "Business Angels"],
-    "date": "2026-07-25"
+    "hq": "Saint-Georges-d'Espéranche",
+    "investors": ["US-Based Private Investors"],
+    "date": "2026-07-31"
+  },
+  {
+    "company": "Apolownia",
+    "amount": 1,
+    "sectors": ["ClimateTech", "AI"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["LITA", "Bpifrance", "Business Angels"],
+    "date": "2026-07-31"
+  },
+  {
+    "company": "Shiplog",
+    "amount": 0.808,
+    "sectors": ["AI", "MarTech"],
+    "round": "Pre-Seed",
+    "hq": "Paris",
+    "investors": ["Kima Ventures", "Project Europe", "Purple", "No Label Ventures", "100IN", "Station F Fund", "Business Angels"],
+    "date": "2026-07-31"
   }
 ]
