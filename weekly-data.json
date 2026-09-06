@@ -1,65 +1,74 @@
 [
   {
-    "company": "Chargepoly",
-    "amount": 23,
-    "sectors": ["CleanTech", "Mobility"],
-    "round": "Growth Equity",
-    "hq": "Aix-en-Provence",
-    "investors": ["Meridiam Green Impact Growth Fund", "Fideve Groupe"],
-    "date": "2026-07-31"
-  },
-  {
-    "company": "Eurodia",
-    "amount": 18,
-    "sectors": ["DeepTech", "CleanTech"],
-    "round": "Growth Equity",
-    "hq": "Pertuis",
-    "investors": ["Starquest Capital", "Yotta Capital Partners"],
-    "date": "2026-07-31"
-  },
-  {
-    "company": "Neverhack",
-    "amount": 11,
-    "sectors": ["Cybersecurity", "AI"],
+    "company": "Lupin Dental",
+    "amount": 15,
+    "sectors": ["MedTech", "Robotics"],
     "round": "Series A",
-    "hq": "Guyancourt",
-    "investors": ["Carlyle", "IK Partners"],
-    "date": "2026-07-31"
+    "hq": "Montpellier",
+    "investors": ["Fynveur", "Bpifrance"],
+    "date": "2026-08-07"
   },
   {
-    "company": "SkinBit",
-    "amount": 5.16,
-    "sectors": ["HealthTech", "MedTech", "BioTech", "AI", "DeepTech"],
+    "company": "Lys Therapeutics",
+    "amount": 13,
+    "sectors": ["BioTech", "HealthTech"],
+    "round": "Growth Equity",
+    "hq": "Lyon",
+    "investors": ["Normandie Participation", "TCD Capital", "FIDAT Ventures", "ZCUBE"],
+    "date": "2026-08-07"
+  },
+  {
+    "company": "Huscarl",
+    "amount": 4.82,
+    "sectors": ["InsurTech", "AI", "SaaS"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Boost VC", "Cleo Capital", "Manna Ventures", "Profluent Capital", "Logan Green", "Business Angels"],
-    "date": "2026-07-31"
+    "investors": ["FRST", "Y Combinator", "MS&AD Ventures", "Business Angels"],
+    "date": "2026-08-07"
   },
   {
-    "company": "AMDB Security Pro",
-    "amount": 2.68,
-    "sectors": ["DeepTech"],
+    "company": "Viraj Aero",
+    "amount": 4.5,
+    "sectors": ["ClimateTech", "Aerospace", "Aviation", "Propulsion"],
     "round": "Seed",
-    "hq": "Saint-Georges-d'Espéranche",
-    "investors": ["US-Based Private Investors"],
-    "date": "2026-07-31"
+    "hq": "Toulouse",
+    "investors": ["IRDI Capital Investissement", "Climate Founders", "OCSEED", "ARTS Aero", "Bpifrance", "Business Angels"],
+    "date": "2026-08-07"
   },
   {
-    "company": "Apolownia",
-    "amount": 1,
-    "sectors": ["ClimateTech", "AI"],
+    "company": "ColibriTD",
+    "amount": 4,
+    "sectors": ["Quantum Computing", "DeepTech"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["LITA", "Bpifrance", "Business Angels"],
-    "date": "2026-07-31"
+    "investors": ["Earlybird Venture Capital", "SymbiaVC", "Medin VC"],
+    "date": "2026-08-07"
   },
   {
-    "company": "Shiplog",
-    "amount": 0.808,
-    "sectors": ["AI", "MarTech"],
-    "round": "Pre-Seed",
+    "company": "ArcSpace",
+    "amount": 2,
+    "sectors": ["SpaceTech", "DeepTech"],
+    "round": "Seed",
+    "hq": "Toulouse",
+    "investors": ["DEPO Ventures", "SCE Freiraum Ventures", "IRDI Capital Investissement", "Business Angels"],
+    "date": "2026-08-07"
+  },
+  {
+    "company": "Swiftask",
+    "amount": 1.55,
+    "sectors": ["AI", "SaaS"],
+    "round": "Seed",
+    "hq": "Nantes",
+    "investors": ["Business Angels"],
+    "date": "2026-08-07"
+  },
+  {
+    "company": "TheraSonic",
+    "amount": 1.52,
+    "sectors": ["MedTech", "HealthTech", "NeuroTech", "Robotics"],
+    "round": "Crowdfunding",
     "hq": "Paris",
-    "investors": ["Kima Ventures", "Project Europe", "Purple", "No Label Ventures", "100IN", "Station F Fund", "Business Angels"],
-    "date": "2026-07-31"
+    "investors": ["Capital Cell"],
+    "date": "2026-08-07"
   }
 ]
