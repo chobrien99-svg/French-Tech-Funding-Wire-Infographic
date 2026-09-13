@@ -1,74 +1,146 @@
 [
   {
-    "company": "Lupin Dental",
-    "amount": 15,
-    "sectors": ["MedTech", "Robotics"],
-    "round": "Series A",
-    "hq": "Montpellier",
-    "investors": ["Fynveur", "Bpifrance"],
-    "date": "2026-08-07"
+    "company": "Mistral AI",
+    "amount": 3000,
+    "sectors": ["AI"],
+    "round": "Series D",
+    "hq": "Paris",
+    "investors": ["Samsung Electronics", "Scaleup Europe Fund (EQT)", "PSG Equity", "Advent", "BlackRock", "Grand Duchy of Luxembourg", "a16z", "ASML", "Belfius", "BNP Paribas CIB", "Bpifrance", "Carmignac", "DST Global", "Eurazeo", "General Catalyst", "Headline", "Hillspire", "Index Ventures", "Korelya Capital", "Lightspeed", "NVIDIA", "Phoenix Court's Solar fund", "Salesforce Ventures"],
+    "date": "2026-09-11"
   },
   {
-    "company": "Lys Therapeutics",
-    "amount": 13,
-    "sectors": ["BioTech", "HealthTech"],
+    "company": "The Exploration Company",
+    "amount": 387,
+    "sectors": ["SpaceTech"],
+    "round": "Series C",
+    "hq": "Munich, Bordeaux",
+    "investors": ["Bessemer Venture Partners", "Atomico", "Scaleup Europe Fund (EQT)", "Balderton Capital", "Plural", "Cherry Ventures"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "Implicity",
+    "amount": 35,
+    "sectors": ["HealthTech", "MedTech", "AI"],
     "round": "Growth Equity",
-    "hq": "Lyon",
-    "investors": ["Normandie Participation", "TCD Capital", "FIDAT Ventures", "ZCUBE"],
-    "date": "2026-08-07"
-  },
-  {
-    "company": "Huscarl",
-    "amount": 4.82,
-    "sectors": ["InsurTech", "AI", "SaaS"],
-    "round": "Seed",
     "hq": "Paris",
-    "investors": ["FRST", "Y Combinator", "MS&AD Ventures", "Business Angels"],
-    "date": "2026-08-07"
+    "investors": ["IRIS", "Five Arrows"],
+    "date": "2026-09-11"
   },
   {
-    "company": "Viraj Aero",
-    "amount": 4.5,
-    "sectors": ["ClimateTech", "Aerospace", "Aviation", "Propulsion"],
-    "round": "Seed",
-    "hq": "Toulouse",
-    "investors": ["IRDI Capital Investissement", "Climate Founders", "OCSEED", "ARTS Aero", "Bpifrance", "Business Angels"],
-    "date": "2026-08-07"
-  },
-  {
-    "company": "ColibriTD",
-    "amount": 4,
-    "sectors": ["Quantum Computing", "DeepTech"],
-    "round": "Seed",
+    "company": "Arlequin AI",
+    "amount": 28,
+    "sectors": ["AI", "DefenseTech"],
+    "round": "Series A",
     "hq": "Paris",
-    "investors": ["Earlybird Venture Capital", "SymbiaVC", "Medin VC"],
-    "date": "2026-08-07"
+    "investors": ["Redalpine", "OTB Ventures", "Bpifrance", "Vsquared Ventures", "10x Founders", "Xavier Niel"],
+    "date": "2026-09-11"
   },
   {
-    "company": "ArcSpace",
-    "amount": 2,
-    "sectors": ["SpaceTech", "DeepTech"],
-    "round": "Seed",
-    "hq": "Toulouse",
-    "investors": ["DEPO Ventures", "SCE Freiraum Ventures", "IRDI Capital Investissement", "Business Angels"],
-    "date": "2026-08-07"
-  },
-  {
-    "company": "Swiftask",
-    "amount": 1.55,
+    "company": "Actionable",
+    "amount": 8.5,
     "sectors": ["AI", "SaaS"],
     "round": "Seed",
-    "hq": "Nantes",
-    "investors": ["Business Angels"],
-    "date": "2026-08-07"
+    "hq": "Paris",
+    "investors": ["Hi Inov", "Axeleo Capital"],
+    "date": "2026-09-11"
   },
   {
-    "company": "TheraSonic",
-    "amount": 1.52,
-    "sectors": ["MedTech", "HealthTech", "NeuroTech", "Robotics"],
-    "round": "Crowdfunding",
+    "company": "Olenbee",
+    "amount": 6.46,
+    "sectors": ["FinTech", "SaaS", "AI"],
+    "round": "Seed",
+    "hq": "Rouen",
+    "investors": ["Go Capital", "Bpifrance", "European Regional Development Fund (ERDF)", "Business Angels"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "Ed.ai",
+    "amount": 5,
+    "sectors": ["EdTech", "AI"],
+    "round": "Seed",
     "hq": "Paris",
-    "investors": ["Capital Cell"],
-    "date": "2026-08-07"
+    "investors": ["Bpifrance Digital Venture", "La Poste Ventures", "50 Partners", "AFI Ventures", "CentraleSupélec Venture", "Ring Capital Generations", "Super Capital"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "Tellia",
+    "amount": 4.3,
+    "sectors": ["AI", "Voice AI", "AgTech"],
+    "round": "Pre-Seed",
+    "hq": "Paris",
+    "investors": ["Revent", "Grey Silo Ventures", "Jeriko", "Fund F"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "Outline",
+    "amount": 2.58,
+    "sectors": ["FinTech", "AI", "SaaS"],
+    "round": "Pre-Seed",
+    "hq": "Paris",
+    "investors": ["Founders Future", "100in", "Newschool", "Bruno Vaffier", "Antoine Lizée", "Raphaël Nahum", "Business Angels"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "V4Cure",
+    "amount": 2,
+    "sectors": ["BioTech"],
+    "round": "Seed",
+    "hq": "Saint-Cloud",
+    "investors": ["Business Angels"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "Paradigme",
+    "amount": 2,
+    "sectors": ["E-Commerce", "AI"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["Hartwood", "One Green", "Pelintex", "Showroomprivé", "Business Angels"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "Bob! Desk",
+    "amount": 1.9,
+    "sectors": ["SaaS", "PropTech"],
+    "round": "Growth Equity",
+    "hq": "Paris",
+    "investors": ["Cita Investissement"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "ANA Healthcare",
+    "amount": 1.8,
+    "sectors": ["HealthTech", "MedTech"],
+    "round": "Series A",
+    "hq": "Marseille",
+    "investors": ["Région Sud Investissement", "CAAP Création", "Business Angels"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "Quiet",
+    "amount": 1.4,
+    "sectors": ["DeepTech", "FoodTech"],
+    "round": "Series A",
+    "hq": "Talence",
+    "investors": ["Demea Sustainable Investment", "Bpifrance"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "OTEO",
+    "amount": 1.2,
+    "sectors": ["HealthTech", "SaaS"],
+    "round": "Seed",
+    "hq": "Annecy",
+    "investors": ["makesense", "50 Partners", "INSEAD", "BADGE", "Bpifrance", "Crédit Agricole des Savoie", "CIC", "Business Angels"],
+    "date": "2026-09-11"
+  },
+  {
+    "company": "BlueSecure",
+    "amount": 1,
+    "sectors": ["Cybersecurity", "EdTech", "SaaS"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["Paris Business Angels", "Arts & Métiers Business Angels", "Bpifrance"],
+    "date": "2026-09-11"
   }
 ]
