@@ -1,128 +1,164 @@
 [
   {
-    "company": "Kaiko",
-    "amount": 49.02,
-    "sectors": ["FinTech", "Web3"],
-    "round": "Series B Extension",
-    "hq": "New York, Paris",
-    "investors": ["S&P Global", "BNP Paribas", "Bpifrance", "Broadridge", "Canton Foundation", "Coinbase Ventures", "DRW Venture Capital", "Nasdaq Ventures", "Royal Bank of Canada", "Stellar", "Susquehanna", "Anthemis", "Point Nine", "Revaia"],
-    "date": "2026-09-18"
+    "company": "HighLife",
+    "amount": 80,
+    "sectors": ["MedTech"],
+    "round": "Growth Equity",
+    "hq": "Paris",
+    "investors": ["Andera Partners", "Sofinnova Partners", "Supernova Invest", "Mérieux Equity Partners", "European Investment Bank", "BNP Paribas Développement", "Capricorn Partners", "Critical Path Ventures", "Pro Benefis Familiae", "SPRIM Global Investments", "USVP", "Sectoral", "VI Partners"],
+    "date": "2026-09-25"
   },
   {
-    "company": "Hackuity",
-    "amount": 16.34,
-    "sectors": ["Cybersecurity", "SaaS", "AI"],
-    "round": "Series B",
-    "hq": "Lyon",
-    "investors": ["Forgepoint Capital International", "Bright Pixel", "Bpifrance", "Seventure Partners"],
-    "date": "2026-09-18"
-  },
-  {
-    "company": "Delos",
-    "amount": 10,
-    "sectors": ["AI", "SaaS"],
+    "company": "Biolevate",
+    "amount": 30,
+    "sectors": ["AI", "HealthTech"],
     "round": "Series A",
     "hq": "Paris",
-    "investors": ["Bpifrance", "C4 Ventures", "Founders Future"],
-    "date": "2026-09-18"
+    "investors": ["RAISE France", "Orange Ventures", "MSD Global Health Innovation Fund", "Station F", "EQT Ventures"],
+    "date": "2026-09-25"
   },
   {
-    "company": "Opio",
-    "amount": 4,
-    "sectors": ["FinTech", "AI", "SaaS"],
+    "company": "Wealthcome",
+    "amount": 15,
+    "sectors": ["FinTech", "SaaS", "AI"],
+    "round": "Series B",
+    "hq": "Bordeaux",
+    "investors": ["Breega", "BlackFin Capital Partners"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "Incepto Medical",
+    "amount": 14,
+    "sectors": ["AI", "HealthTech"],
+    "round": "Series B",
+    "hq": "Paris",
+    "investors": ["Impactivist", "LBO France", "Karista", "Bpifrance", "Wille Finance"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "Kheops",
+    "amount": 12,
+    "sectors": ["RetailTech", "SaaS", "AI"],
+    "round": "Series A",
+    "hq": "Paris",
+    "investors": ["Odyssée Venture", "ISAI", "Elaia"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "Horizom",
+    "amount": 10,
+    "sectors": ["AgriTech", "ClimateTech", "BioTech"],
+    "round": "Growth Equity",
+    "hq": "Bordeaux",
+    "investors": ["SWEN Capital Partners"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "Zeliq",
+    "amount": 7,
+    "sectors": ["AI", "SaaS"],
+    "round": "Seed Extension",
+    "hq": "Paris",
+    "investors": ["The Moon Venture", "CMI", "JJCapinvest", "Sylvestre Blavet", "Ora Global", "Cleo Ventures", "Business Angels"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "Graneet",
+    "amount": 7,
+    "sectors": ["SaaS", "AI"],
+    "round": "Growth Equity",
+    "hq": "Paris",
+    "investors": ["Point Nine", "Spring Invest"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "Primo",
+    "amount": 6.88,
+    "sectors": ["AI", "SaaS", "Cybersecurity"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Frst", "Seedcamp", "Global Founders Capital", "Arthur Waller", "Stanislas Polu", "Business Angels"],
-    "date": "2026-09-18"
+    "investors": ["Headline", "Global Founders Capital", "Arthur Waller", "Romain Niccoli", "Business Angels"],
+    "date": "2026-09-25"
   },
   {
-    "company": "Laboratoires üma",
-    "amount": 4,
-    "sectors": ["FemTech", "HealthTech"],
+    "company": "RelaiSanté",
+    "amount": 6,
+    "sectors": ["HealthTech", "SaaS", "AI"],
     "round": "Seed",
-    "hq": "Lyon",
-    "investors": ["The Moon Venture", "Le DealClub", "Ring Capital", "Kima Ventures"],
-    "date": "2026-09-18"
+    "hq": "Paris",
+    "investors": ["Ternel", "Aquiti", "Elaia", "Ventech"],
+    "date": "2026-09-25"
   },
   {
-    "company": "Armageddon",
-    "amount": 2.2,
-    "sectors": ["Cybersecurity", "SaaS", "AI"],
-    "round": "Seed",
-    "hq": "Lyon",
-    "investors": ["Generis Capital Partners", "Pascal Houillon", "Leo Gonzales"],
-    "date": "2026-09-18"
-  },
-  {
-    "company": "Treewater",
-    "amount": 2,
-    "sectors": ["WaterTech", "CleanTech"],
-    "round": "Seed",
-    "hq": "Lyon",
-    "investors": ["Family Offices"],
-    "date": "2026-09-18"
-  },
-  {
-    "company": "AbTx",
-    "amount": 1.7,
-    "sectors": ["BioTech"],
-    "round": "Seed",
-    "hq": "Dijon",
-    "investors": ["Calyseed", "Capital Cell", "Covalab", "Bpifrance", "Région Bourgogne-Franche-Comté", "Dijon Métropole", "i-Lab 2026"],
-    "date": "2026-09-18"
-  },
-  {
-    "company": "Bravi",
-    "amount": 1.55,
+    "company": "Reecall",
+    "amount": 3.5,
     "sectors": ["AI", "SaaS"],
-    "round": "Pre-Seed",
-    "hq": "Cholet",
-    "investors": ["Y Combinator", "Rebel Fund", "Embedding VC", "Deel Ventures", "Bpifrance", "Nicolas Dessaigne", "Othman Laraki", "Business Angels"],
-    "date": "2026-09-18"
-  },
-  {
-    "company": "Kompa",
-    "amount": 1.5,
-    "sectors": ["AI", "SaaS"],
-    "round": "Pre-Seed",
-    "hq": "Anglet",
-    "investors": ["WeLoveFounders", "Imagination Machine", "Super Capital"],
-    "date": "2026-09-18"
-  },
-  {
-    "company": "Wasoria",
-    "amount": 1.5,
-    "sectors": ["DeepTech", "AI", "CleanTech"],
     "round": "Seed",
-    "hq": "Le Creusot",
-    "investors": ["Business Angels de Bourgogne-Franche-Comté"],
-    "date": "2026-09-18"
+    "hq": "Lyon",
+    "investors": ["Founders Future", "Holnest", "Mesh", "Francis Nappez", "Sébastien Lucas", "Evolem"],
+    "date": "2026-09-25"
   },
   {
-    "company": "Fronterra",
-    "amount": 0.95,
-    "sectors": ["ClimateTech"],
+    "company": "Lightspring",
+    "amount": 3.1,
+    "sectors": ["DeepTech", "Semiconductors", "AI"],
     "round": "Seed",
-    "hq": "Marseille",
-    "investors": ["Christian del Valle", "Lita", "Restoration Seed Capital"],
-    "date": "2026-09-18"
+    "hq": "Besançon",
+    "investors": ["Atlantic", "OVNI Capital", "Concept Ventures", "Ixcore", "Plug and Play Ventures", "Business Angels"],
+    "date": "2026-09-25"
   },
   {
-    "company": "Simaptic",
-    "amount": 0.41,
-    "sectors": ["HealthTech", "EdTech"],
+    "company": "IOPOLE",
+    "amount": 3,
+    "sectors": ["FinTech", "SaaS"],
     "round": "Seed",
-    "hq": "Loos",
-    "investors": ["Franck Harrold", "Nicolas Duriez", "Mickael Danvin", "Joël Wyon", "Bpifrance", "Business Angels"],
-    "date": "2026-09-18"
+    "hq": "Pérols",
+    "investors": ["IRDI Capital Investissement", "SOFILARO"],
+    "date": "2026-09-25"
   },
   {
-    "company": "Everimpact",
-    "amount": 0.129,
-    "sectors": ["ClimateTech", "SpaceTech", "AI"],
+    "company": "WheelMove",
+    "amount": 1,
+    "sectors": ["MedTech", "Mobility"],
+    "round": "Seed",
+    "hq": "Vennette",
+    "investors": ["Rives Croissance", "Banque Populaire Rives de Paris", "Bpifrance"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "LégiPilot",
+    "amount": 0.5,
+    "sectors": ["HRTech", "LegalTech", "SaaS", "AI"],
     "round": "Pre-Seed",
-    "hq": "Plabennec",
-    "investors": ["Morgan Stanley Inclusive & Sustainable Ventures"],
-    "date": "2026-09-18"
+    "hq": "Lille",
+    "investors": ["Undisclosed"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "AlphaYoda",
+    "amount": 0.4,
+    "sectors": ["FinTech", "AI"],
+    "round": "Pre-Seed",
+    "hq": "Metz",
+    "investors": ["Business Angels"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "Le Petit Lunetier",
+    "amount": 0.248,
+    "sectors": ["E-commerce"],
+    "round": "Growth Equity",
+    "hq": "Paris",
+    "investors": ["NESO Brands"],
+    "date": "2026-09-25"
+  },
+  {
+    "company": "Herapreg",
+    "amount": 0.215,
+    "sectors": ["MedTech", "FemTech"],
+    "round": "Seed",
+    "hq": "Yerres",
+    "investors": ["Business Angels"],
+    "date": "2026-09-25"
   }
 ]
