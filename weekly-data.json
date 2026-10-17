@@ -1,272 +1,137 @@
 [
   {
-    "company": "Spiko",
-    "amount": 77.4,
-    "sectors": ["FinTech", "Blockchain", "Web3"],
-    "round": "Series B",
-    "hq": "Paris",
-    "investors": ["New Enterprise Associates (NEA)", "Index Ventures", "Bpifrance", "Speedinvest", "Flourish Ventures", "Shapers", "White Star Capital", "Blockwall", "Frst", "EQNX", "Mirana Ventures", "Wintermute Ventures", "Axel Weber", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Wiremind",
-    "amount": 35,
-    "sectors": ["SaaS", "AI", "TravelTech"],
+    "company": "Flying Whales",
+    "amount": 90,
+    "sectors": ["Aerospace", "ClimateTech", "Aviation", "Mobility"],
     "round": "Growth Equity",
-    "hq": "Paris",
-    "investors": ["IronWave", "Bpifrance", "Seaya Andromeda"],
-    "date": "2026-10-09"
+    "hq": "Suresnes",
+    "investors": ["CMA CGM", "Carac", "Air Liquide", "Groupe ADP", "Bouygues", "Sogecap", "French Tech Souveraineté", "Temaris", "Principality of Monaco", "Nouvelle-Aquitaine Regional Government"],
+    "date": "2026-10-16"
   },
   {
-    "company": "Vates",
-    "amount": 30,
-    "sectors": ["SaaS", "Cybersecurity"],
+    "company": "Dougs",
+    "amount": 50,
+    "sectors": ["FinTech", "SaaS", "AI"],
     "round": "Growth Equity",
-    "hq": "Grenoble",
-    "investors": ["IRIS", "Bpifrance"],
-    "date": "2026-10-09"
+    "hq": "Lyon",
+    "investors": ["Expedition Growth Capital"],
+    "date": "2026-10-16"
   },
   {
-    "company": "WhiteLab Genomics",
-    "amount": 22.36,
-    "sectors": ["BioTech", "TechBio", "AI"],
-    "round": "Series B",
-    "hq": "Paris",
-    "investors": ["AVP", "Yaday Health", "Blast Club", "Omnes Capital", "Debiopharm Innovation Fund"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "VoltR",
-    "amount": 22,
-    "sectors": ["ClimateTech", "Energy Storage"],
-    "round": "Series A",
-    "hq": "Verrières-en-Anjou",
-    "investors": ["Bpifrance", "Decathlon PULSE", "France 2030"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Rivercell",
-    "amount": 21.5,
-    "sectors": ["AI", "BioTech", "TechBio"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["HV", "HCVC", "Alven", "Bpifrance", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Vocca",
-    "amount": 17.2,
-    "sectors": ["HealthTech", "AI", "Voice AI", "SaaS"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["Norrsken", "Heal Capital", "Speedinvest", "firstminute", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Edonia",
+    "company": "Epyr",
     "amount": 15,
-    "sectors": ["FoodTech", "AgriTech", "ClimateTech"],
-    "round": "Series A",
-    "hq": "Bordeaux",
-    "investors": ["SWEN", "Asterion Ventures", "EIT Food", "Bpifrance", "France 2030"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Inbolt",
-    "amount": 11,
-    "sectors": ["AI", "Robotics"],
-    "round": "Series B",
-    "hq": "Paris",
-    "investors": ["Shift4Good", "Bridges Climate Transition Partners", "BNP Paribas Développement", "Ora Global"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Rayon",
-    "amount": 10,
-    "sectors": ["SaaS", "AI", "PropTech"],
+    "sectors": ["ClimateTech", "Energy"],
     "round": "Series A",
     "hq": "Paris",
-    "investors": ["Partech", "Northzone", "Foundamental", "Seedcamp"],
-    "date": "2026-10-09"
+    "investors": ["SlateVC", "AENU", "Daphni", "OVNI Capital", "WEPA Ventures", "Aurum Impact"],
+    "date": "2026-10-16"
   },
   {
-    "company": "Netsec",
-    "amount": 8.6,
-    "sectors": ["Cybersecurity", "AI", "SaaS"],
-    "round": "Growth Equity",
-    "hq": "Paris",
-    "investors": ["Partech", "Primo Capital", "View Different", "Riccardo Zacconi", "Kima Ventures", "Ithaca Investments", "Vento", "Vito Lomele", "Everywhere Ventures", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Cleavr",
-    "amount": 8,
-    "sectors": ["FinTech", "AI", "SaaS"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Varsity", "Kima Ventures", "Better Angle", "100IN", "Portfolio Ventures", "Kerala Ventures", "Financière Saint James", "Station F", "Clover", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Archeon Medical",
-    "amount": 7.74,
-    "sectors": ["MedTech"],
+    "company": "HyLight",
+    "amount": 13,
+    "sectors": ["ClimateTech", "Aerospace", "Robotics", "AI", "Energy"],
     "round": "Series A",
-    "hq": "Besançon",
-    "investors": ["Newfund", "Eiffel Investment Group", "UI Investissement", "Majycc Innovation Santé", "Karot Capital"],
-    "date": "2026-10-09"
+    "hq": "Le Plessis-Pâté",
+    "investors": ["Rubio Impact Ventures", "DRW", "Teampact Ventures", "Y Combinator", "Ring Capital"],
+    "date": "2026-10-16"
   },
   {
-    "company": "Marble",
-    "amount": 6.5,
-    "sectors": ["FinTech", "RegTech", "AI"],
-    "round": "Series A",
-    "hq": "Paris",
-    "investors": ["Smartfin", "ADNEXUS", "Passion Capital", "42Capital", "Hexa"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "AlloBrain",
-    "amount": 6.02,
-    "sectors": ["AI", "SaaS", "Voice AI"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Varsity", "Groupama", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Verso",
-    "amount": 5.16,
-    "sectors": ["AI", "SaaS", "MarTech"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Angular Ventures", "100in", "Kima Ventures", "Olympe Capital", "Sharpstone Capital", "Roxanne Varza", "Hexa", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Fleuret AI",
-    "amount": 4,
-    "sectors": ["Cybersecurity", "AI", "SaaS"],
-    "round": "Pre-Seed",
-    "hq": "Paris",
-    "investors": ["RAISE Venture", "Auriga Cyber Ventures", "Wind Capital", "Better Angle", "Jules Veyrat", "Alexandre Andreini", "Eric Fourrier", "Georges Lotigier", "Olivier Pantaleo", "Jean-François Aliotti", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "VoltaBack",
-    "amount": 2.8,
-    "sectors": ["Mobility", "SaaS", "ClimateTech"],
-    "round": "Seed",
-    "hq": "Levallois-Perret",
-    "investors": ["Serena", "Aurélien de Meaux", "Maxime Brousse", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Revalue",
-    "amount": 2.2,
+    "company": "Goodweek",
+    "amount": 10.32,
     "sectors": ["AI", "SaaS"],
     "round": "Seed",
-    "hq": "Grenoble",
-    "investors": ["Asterion Ventures", "Hoji Ventures", "Kima Ventures"],
-    "date": "2026-10-09"
+    "hq": "Strasbourg",
+    "investors": ["Adara Ventures", "Anamcara Capital", "BGV", "BY Venture Partners", "CentraleSupélec Venture", "FJ Labs", "Interlace Ventures", "True Ventures"],
+    "date": "2026-10-16"
   },
   {
-    "company": "SoonGo",
-    "amount": 2.2,
-    "sectors": ["SaaS", "AI", "Mobility", "ClimateTech"],
-    "round": "Seed",
-    "hq": "Nantes",
-    "investors": ["GO Capital", "Station F", "Jean-Marc Gonon", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Spash",
-    "amount": 2,
-    "sectors": ["SportsTech", "AI", "SaaS"],
+    "company": "Wavo",
+    "amount": 10,
+    "sectors": ["FinTech", "AI"],
     "round": "Series A",
     "hq": "Lyon",
-    "investors": ["Vessoa Invest", "GO Ventures", "CoopVenture"],
-    "date": "2026-10-09"
+    "investors": ["Eurazeo", "Axeleo Capital", "HUB612"],
+    "date": "2026-10-16"
   },
   {
-    "company": "Joe AI",
-    "amount": 2,
-    "sectors": ["AI", "PropTech", "SaaS"],
-    "round": "Seed",
+    "company": "Webyn",
+    "amount": 7,
+    "sectors": ["AI", "MarTech", "SaaS"],
+    "round": "Series A",
     "hq": "Paris",
-    "investors": ["Xplore", "Plug and Play Ventures", "Thierry Herrmann", "Olivier Safar", "Patrick Safar", "Marc Menasé", "Benjamin Chemla", "Justine Cazalière", "Rémy Sultan", "Renaud Dalbera", "Cyril Madar", "Julien Madar", "Bpifrance", "Business Angels"],
-    "date": "2026-10-09"
+    "investors": ["Réflexion Capital", "Tomcat", "Business Angels"],
+    "date": "2026-10-16"
   },
   {
-    "company": "Vasco",
-    "amount": 1.7,
-    "sectors": ["ClimateTech", "FinTech", "PropTech"],
-    "round": "Seed",
-    "hq": "Bordeaux",
-    "investors": ["Aquiti", "makesense"],
-    "date": "2026-10-09"
+    "company": "CarbonFarm",
+    "amount": 7,
+    "sectors": ["ClimateTech", "AgriTech", "AI", "SpaceTech"],
+    "round": "Series A",
+    "hq": "Nanterre",
+    "investors": ["Colam Impact", "Proparco", "Suma Capital", "elea", "Working Capital Fund", "Albo", "Bpifrance", "Serena", "makesense", "Technmind"],
+    "date": "2026-10-16"
   },
   {
-    "company": "Shadow Santé",
-    "amount": 1.5,
-    "sectors": ["HealthTech", "ClimateTech"],
+    "company": "Bruxless",
+    "amount": 4,
+    "sectors": ["MedTech", "HealthTech"],
     "round": "Seed",
-    "hq": "Sophia Antipolis",
-    "investors": ["Good Only Ventures", "Impact Seed Ventures", "Caisse d'Épargne Côte d'Azur", "Provence Angels", "Paris Business Angels", "Angels Santé"],
-    "date": "2026-10-09"
+    "hq": "Manosque",
+    "investors": ["Family Shareholders"],
+    "date": "2026-10-16"
   },
   {
-    "company": "Betty Care",
-    "amount": 1.5,
-    "sectors": ["HealthTech", "SaaS"],
+    "company": "Koddex",
+    "amount": 3,
+    "sectors": ["SaaS", "AI"],
     "round": "Seed",
-    "hq": "Toulouse",
+    "hq": "Lille",
+    "investors": ["Breega", "Exotec"],
+    "date": "2026-10-16"
+  },
+  {
+    "company": "H&B Materials",
+    "amount": 2.1,
+    "sectors": ["DeepTech", "ClimateTech"],
+    "round": "Pre-Seed",
+    "hq": "Saint-Fons",
+    "investors": ["Anima", "Alpha Star", "Keenest", "RAISE Sherpas", "Bpifrance", "Caisse d'Épargne"],
+    "date": "2026-10-16"
+  },
+  {
+    "company": "Fibraterre",
+    "amount": 1.8,
+    "sectors": ["ClimateTech", "DeepTech"],
+    "round": "Seed",
+    "hq": "Oissel",
+    "investors": ["UTC Alumni Invest", "SideAngels", "Normandie Participations", "Bpifrance"],
+    "date": "2026-10-16"
+  },
+  {
+    "company": "Lili for Life",
+    "amount": 1.1,
+    "sectors": ["HealthTech", "Consumer Electronics", "EdTech"],
+    "round": "Seed",
+    "hq": "Rouen",
     "investors": ["Undisclosed"],
-    "date": "2026-10-09"
+    "date": "2026-10-16"
   },
   {
-    "company": "V-Loc",
-    "amount": 1.5,
-    "sectors": ["Mobility", "ClimateTech"],
-    "round": "Seed",
-    "hq": "Escalquens",
-    "investors": ["Undisclosed"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "C-Clerc",
-    "amount": 1.2,
+    "company": "UZAI",
+    "amount": 1,
     "sectors": ["LegalTech", "AI", "SaaS"],
-    "round": "Seed",
-    "hq": "Neuilly-sur-Seine",
-    "investors": ["ADNEXUS"],
-    "date": "2026-10-09"
+    "round": "Pre-Seed",
+    "hq": "Chasselay",
+    "investors": ["Paris Business Angels", "HUB612", "Business Angels"],
+    "date": "2026-10-16"
   },
   {
-    "company": "Edison IA",
-    "amount": 1,
-    "sectors": ["AI", "SaaS"],
-    "round": "Seed",
-    "hq": "Nantes",
-    "investors": ["Go Capital", "CIC Ouest", "Bpifrance"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Combiné Kids",
-    "amount": 1,
-    "sectors": ["Consumer Electronics", "Hardware", "Telecom"],
-    "round": "Seed",
-    "hq": "Neuilly-sur-Seine",
-    "investors": ["Kelly Massol", "Alice Lhabouz", "Angélique Gérard", "Jérémy Bendayan", "Business Angels"],
-    "date": "2026-10-09"
-  },
-  {
-    "company": "Doors3",
-    "amount": 1,
-    "sectors": ["AI", "Blockchain", "Web3", "SaaS"],
-    "round": "Growth Equity",
+    "company": "MAGE-X Medical AI",
+    "amount": 0.38,
+    "sectors": ["AI", "HealthTech", "MedTech", "SaaS"],
+    "round": "Pre-Seed",
     "hq": "Marseille",
-    "investors": ["9 Capital Management"],
-    "date": "2026-10-09"
+    "investors": ["Bpifrance", "Healthcare Professionals"],
+    "date": "2026-10-16"
   }
 ]
