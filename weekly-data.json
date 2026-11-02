@@ -1,83 +1,74 @@
 [
   {
-    "company": "Pigment",
-    "amount": 223,
-    "sectors": ["AI", "SaaS"],
-    "round": "Series E",
+    "company": "Inevitable",
+    "amount": 15,
+    "sectors": ["AI", "Media"],
+    "round": "Series A",
     "hq": "Paris",
-    "investors": ["Scaleup Europe Fund", "World Innovation Lab", "Greenoaks", "ICONIQ", "IVP", "Meritech", "NVIDIA"],
-    "date": "2026-10-23"
+    "investors": ["Undisclosed"],
+    "date": "2026-10-30"
   },
   {
-    "company": "Elax Énergie",
-    "amount": 30,
-    "sectors": ["ClimateTech", "Energy"],
-    "round": "Growth Equity",
-    "hq": "Paris",
-    "investors": ["Noria", "Fonds Révolution Environnementale et Solidaire", "Crédit Mutuel Impact"],
-    "date": "2026-10-23"
-  },
-  {
-    "company": "Bageera",
-    "amount": 10,
-    "sectors": ["ClimateTech", "AI"],
-    "round": "Growth Equity",
-    "hq": "Paris",
-    "investors": ["Varsity", "Eurazeo", "Frst", "Banyan Ventures"],
-    "date": "2026-10-23"
-  },
-  {
-    "company": "Sintermat",
-    "amount": 6,
+    "company": "Wormsensing",
+    "amount": 9.5,
     "sectors": ["DeepTech"],
-    "round": "Growth Equity",
-    "hq": "Venarey-les-Laumes",
-    "investors": ["Orano Venture Fund", "Definvest", "Bpifrance", "Safran Corporate Ventures", "UI Investissement"],
-    "date": "2026-10-23"
+    "round": "Series A",
+    "hq": "Seyssinet-Pariset",
+    "investors": ["Orano Venture Fund", "Bpifrance", "France 2030", "Fonds Régional Avenir Industrie Auvergne-Rhône-Alpes", "Innovacom", "KBC Focus Fund", "CEA Investissement"],
+    "date": "2026-10-30"
   },
   {
-    "company": "Dyameo",
-    "amount": 3,
-    "sectors": ["MedTech", "HealthTech"],
-    "round": "Growth Equity",
-    "hq": "Limoges",
-    "investors": ["Medevice Capital", "NACO", "Bpifrance", "OBRATORI", "Estellior Capital", "Business Angels"],
-    "date": "2026-10-23"
-  },
-  {
-    "company": "Reduck",
-    "amount": 2.58,
-    "sectors": ["AI", "SaaS"],
+    "company": "Bleu Robotics",
+    "amount": 5,
+    "sectors": ["AI", "Robotics", "DeepTech"],
     "round": "Pre-Seed",
     "hq": "Paris",
-    "investors": ["Daphni", "Drysdale Ventures", "Galion.exe", "Olivier Pomel", "Florian Douetteau", "Guillaume Lample", "Marie Brayer", "Lucas Fischer", "Xavier Fischer", "Yann Lechelle", "Raphaël Vullierme", "Business Angels"],
-    "date": "2026-10-23"
+    "investors": ["Contrarian Ventures", "OVNI Capital"],
+    "date": "2026-10-30"
   },
   {
-    "company": "Weflayr",
-    "amount": 2.15,
-    "sectors": ["AI", "SaaS"],
+    "company": "AQQI",
+    "amount": 4,
+    "sectors": ["PropTech", "AI"],
     "round": "Pre-Seed",
-    "hq": "Paris",
-    "investors": ["13books Capital", "Founders Future", "Kima Ventures", "Plug and Play Europe", "STATION F", "Roxanne Varza", "Business Angels"],
-    "date": "2026-10-23"
+    "hq": "Bordeaux",
+    "investors": ["Axeleo Capital", "Aquiti", "Kima Ventures", "50 Partners", "Source Ventures", "Pierre Kosciusko-Morizet", "Nicolas Steegmann", "Business Angels"],
+    "date": "2026-10-30"
   },
   {
-    "company": "3Pay",
-    "amount": 1.5,
-    "sectors": ["FinTech", "HealthTech", "InsurTech"],
+    "company": "Aíma",
+    "amount": 2.2,
+    "sectors": ["MedTech", "BioTech", "AI"],
     "round": "Seed",
-    "hq": "Lyon",
-    "investors": ["Truffle Capital", "Accurafy", "Side Angels"],
-    "date": "2026-10-23"
+    "hq": "Meylan",
+    "investors": ["Cyrille Fleury", "Benoit Lemaignan", "Marc Aeschlimann", "Pascale Witz", "Spike Willcocks", "Gilles Polo", "Valérie Pierrard", "Business Angels"],
+    "date": "2026-10-30"
   },
   {
-    "company": "Pesia",
+    "company": "PINT",
+    "amount": 1.7,
+    "sectors": ["DeepTech", "Aerospace", "DefenseTech"],
+    "round": "Pre-Seed",
+    "hq": "Metz",
+    "investors": ["Bourgogne Franche-Comté Business Angels", "Alsace Business Angels", "Business Angels des Grandes Écoles", "Défense Angels", "Champagne Ardenne Angels", "ADEME", "France 2030"],
+    "date": "2026-10-30"
+  },
+  {
+    "company": "Playa Rent",
     "amount": 0.5,
-    "sectors": ["HRTech", "SaaS", "AI"],
+    "sectors": ["TravelTech", "SportsTech"],
     "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Business Angels"],
-    "date": "2026-10-23"
+    "hq": "Pornic",
+    "investors": ["Industrial Partners"],
+    "date": "2026-10-30"
+  },
+  {
+    "company": "Bcell Design",
+    "amount": 0.4,
+    "sectors": ["BioTech", "MedTech"],
+    "round": "Seed",
+    "hq": "Illkirch-Graffenstaden",
+    "investors": ["Existing Shareholders"],
+    "date": "2026-10-30"
   }
 ]
