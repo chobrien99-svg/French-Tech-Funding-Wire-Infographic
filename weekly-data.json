@@ -28,7 +28,7 @@
   },
   {
     "company": "Granit",
-    "amount": 5,
+    "amount": 3.5,
     "sectors": ["HealthTech", "AI", "SaaS"],
     "round": "Pre-Seed",
     "hq": "Paris",
