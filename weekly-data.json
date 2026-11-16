@@ -1,101 +1,83 @@
 [
   {
-    "company": "Resilience Care",
-    "amount": 48,
-    "sectors": ["HealthTech", "MedTech"],
+    "company": "Orakl Oncology",
+    "amount": 30,
+    "sectors": ["TechBio", "AI", "BioTech"],
+    "round": "Series A",
+    "hq": "Villejuif",
+    "investors": ["Norrsken VC", "Singular", "InfraVia Capital Partners", "Serena", "Teampact Ventures", "Bpifrance", "Plug and Play", "Verve Ventures", "Speedinvest", "HCVC"],
+    "date": "2026-11-13"
+  },
+  {
+    "company": "Gama",
+    "amount": 15,
+    "sectors": ["SpaceTech", "DeepTech", "Aerospace"],
+    "round": "Seed",
+    "hq": "Ivry-sur-Seine",
+    "investors": ["Transition", "Planet A", "Draper Associates", "Manta Ray"],
+    "date": "2026-11-13"
+  },
+  {
+    "company": "triPica",
+    "amount": 12.4,
+    "sectors": ["SaaS", "Energy", "Mobility", "AI"],
     "round": "Growth Equity",
     "hq": "Paris",
-    "investors": ["PSG Equity"],
-    "date": "2026-11-06"
+    "investors": ["TiLT Capital Partners"],
+    "date": "2026-11-13"
   },
   {
-    "company": "Physicl",
-    "amount": 8.6,
-    "sectors": ["AI", "Robotics"],
+    "company": "NGPES",
+    "amount": 5,
+    "sectors": ["FinTech", "Blockchain", "Web3"],
+    "round": "Growth Equity",
+    "hq": "Paris",
+    "investors": ["Undisclosed"],
+    "date": "2026-11-13"
+  },
+  {
+    "company": "Heal.dev",
+    "amount": 4,
+    "sectors": ["AI", "Cybersecurity", "SaaS"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Inovia Capital", "U.S. Venture Partners", "Insight Partners"],
-    "date": "2026-11-06"
+    "investors": ["Mango Capital", "Alven"],
+    "date": "2026-11-13"
   },
   {
-    "company": "Gallium Defense",
-    "amount": 7.1,
-    "sectors": ["DefenseTech", "DeepTech", "AI", "Drones"],
-    "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Keen Venture Partners", "360 Capital", "Omnes Capital", "Polytechnique Ventures"],
-    "date": "2026-11-06"
-  },
-  {
-    "company": "Granit",
-    "amount": 3.5,
-    "sectors": ["HealthTech", "AI", "SaaS"],
+    "company": "WELL",
+    "amount": 3.6,
+    "sectors": ["AI", "FinTech", "SaaS"],
     "round": "Pre-Seed",
     "hq": "Paris",
-    "investors": ["Seedcamp", "Drysdale Ventures", "Re:rail", "Purple", "Cleo", "Kima Ventures", "Bpifrance"],
-    "date": "2026-11-06"
+    "investors": ["Speedinvest", "Kima Ventures", "Purple", "OPRTRS Club", "Relics Ventures", "Source Ventures", "199 Ventures"],
+    "date": "2026-11-13"
   },
   {
-    "company": "AICE",
-    "amount": 4,
-    "sectors": ["DefenseTech", "Robotics", "AI", "DeepTech"],
+    "company": "SolidUltra",
+    "amount": 3,
+    "sectors": ["DeepTech", "AI", "Semiconductors"],
     "round": "Seed",
-    "hq": "Paris",
-    "investors": ["Motier Ventures", "Global Founders Capital", "Sisyphus Ventures", "Leblon Capital"],
-    "date": "2026-11-06"
+    "hq": "Massy",
+    "investors": ["Watt & Well"],
+    "date": "2026-11-13"
   },
   {
-    "company": "Sedipec",
-    "amount": 4,
-    "sectors": ["ClimateTech", "PropTech"],
-    "round": "Growth Equity",
-    "hq": "Sceaux",
-    "investors": ["Starquest Capital"],
-    "date": "2026-11-06"
-  },
-  {
-    "company": "Gimii",
+    "company": "Namkin",
     "amount": 1.5,
-    "sectors": ["AdTech", "MarTech", "SaaS"],
-    "round": "Pre-Seed",
-    "hq": "Paris",
-    "investors": ["Time4 (daphni)", "Tomcat", "Provence Angels", "Augustin Decré", "Thibault Hennion", "Business Angels"],
-    "date": "2026-11-06"
-  },
-  {
-    "company": "Excellent",
-    "amount": 1.2,
-    "sectors": ["FoodTech", "AgriFood", "ClimateTech"],
-    "round": "Pre-Seed",
-    "hq": "Montreuil",
-    "investors": ["Montgrand Executive", "Galapagos Innovation", "7KO2", "Pays de la Loire Participations", "Marco & Co", "SideAngels", "Business Angels"],
-    "date": "2026-11-06"
-  },
-  {
-    "company": "QRU",
-    "amount": 1,
-    "sectors": ["PetTech", "FoodTech", "E-commerce"],
+    "sectors": ["AI", "MarTech", "SaaS", "IndustrialTech"],
     "round": "Seed",
-    "hq": "Saint-Martin-le-Vinoux",
-    "investors": ["Rhône Dauphiné Développement", "Casra Capital", "Ora Groupe", "Qwild BA Invest", "Novus Orbs", "Leia Capital II", "Innov'Alpes 2", "Business Angels"],
-    "date": "2026-11-06"
+    "hq": "Rosières-près-Troyes",
+    "investors": ["Hand Partners", "Bpifrance", "Caisse d'Épargne"],
+    "date": "2026-11-13"
   },
   {
-    "company": "ArmorCheck",
-    "amount": 1,
-    "sectors": ["DefenseTech", "DeepTech"],
-    "round": "Pre-Seed",
-    "hq": "Caudan",
-    "investors": ["Socomore Venture", "Défense Angels", "Breizh Up"],
-    "date": "2026-11-06"
-  },
-  {
-    "company": "Shaarp",
-    "amount": 0.4,
-    "sectors": ["AI", "SalesTech", "SaaS"],
-    "round": "Pre-Seed",
-    "hq": "Montpellier",
-    "investors": ["Frédéric Salles", "Freddy Pintus", "Édouard de Raulin", "Frederi Scotto", "Business Angels"],
-    "date": "2026-11-06"
+    "company": "Humbird",
+    "amount": 1.1,
+    "sectors": ["Mobility", "ClimateTech"],
+    "round": "Seed",
+    "hq": "Nantes",
+    "investors": ["Samuel Berthelot", "Grégoire Germain"],
+    "date": "2026-11-13"
   }
 ]
