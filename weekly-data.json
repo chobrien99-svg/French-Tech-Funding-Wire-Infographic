@@ -1,83 +1,92 @@
 [
   {
-    "company": "Orakl Oncology",
-    "amount": 30,
-    "sectors": ["TechBio", "AI", "BioTech"],
+    "company": "Genesis AI",
+    "amount": 450,
+    "sectors": ["AI", "Robotics", "DeepTech"],
     "round": "Series A",
-    "hq": "Villejuif",
-    "investors": ["Norrsken VC", "Singular", "InfraVia Capital Partners", "Serena", "Teampact Ventures", "Bpifrance", "Plug and Play", "Verve Ventures", "Speedinvest", "HCVC"],
-    "date": "2026-11-13"
+    "hq": "Paris",
+    "investors": ["Premji Invest", "Khosla Ventures", "Eclipse", "Durable Capital Partners", "Bpifrance", "HSG", "NVIDIA", "AMD Ventures", "Zoom", "Samsung Next", "Eric Schmidt", "Eric Yuan", "Jerry Yang", "Xavier Niel", "Zach Kirkhorn", "Business Angels"],
+    "date": "2026-11-20"
   },
   {
-    "company": "Gama",
+    "company": "HoloSolis",
     "amount": 15,
-    "sectors": ["SpaceTech", "DeepTech", "Aerospace"],
-    "round": "Seed",
-    "hq": "Ivry-sur-Seine",
-    "investors": ["Transition", "Planet A", "Draper Associates", "Manta Ray"],
-    "date": "2026-11-13"
-  },
-  {
-    "company": "triPica",
-    "amount": 12.4,
-    "sectors": ["SaaS", "Energy", "Mobility", "AI"],
-    "round": "Growth Equity",
+    "sectors": ["ClimateTech", "DeepTech"],
+    "round": "Series A",
     "hq": "Paris",
-    "investors": ["TiLT Capital Partners"],
-    "date": "2026-11-13"
+    "investors": ["Crédit Agricole", "Calès Technologies", "Forming", "Ecolab"],
+    "date": "2026-11-20"
   },
   {
-    "company": "NGPES",
-    "amount": 5,
-    "sectors": ["FinTech", "Blockchain", "Web3"],
-    "round": "Growth Equity",
-    "hq": "Paris",
-    "investors": ["Undisclosed"],
-    "date": "2026-11-13"
-  },
-  {
-    "company": "Heal.dev",
-    "amount": 4,
-    "sectors": ["AI", "Cybersecurity", "SaaS"],
+    "company": "Stryx AI",
+    "amount": 7.7,
+    "sectors": ["DefenseTech", "AI", "Drones", "Robotics"],
     "round": "Seed",
     "hq": "Paris",
-    "investors": ["Mango Capital", "Alven"],
-    "date": "2026-11-13"
+    "investors": ["Impala", "Armand Thiberge", "Michaël de Lagarde", "Benjamin Benharrosh", "Business Angels"],
+    "date": "2026-11-20"
   },
   {
-    "company": "WELL",
-    "amount": 3.6,
-    "sectors": ["AI", "FinTech", "SaaS"],
+    "company": "MountAIn",
+    "amount": 7.3,
+    "sectors": ["AI", "Computer Vision", "DeepTech"],
+    "round": "Seed",
+    "hq": "Meylan",
+    "investors": ["360 Capital", "Supernova Invest", "Crédit Agricole Alpes Développement", "Bpifrance"],
+    "date": "2026-11-20"
+  },
+  {
+    "company": "Stimuli Technology",
+    "amount": 7,
+    "sectors": ["MedTech", "HealthTech"],
+    "round": "Growth Equity",
+    "hq": "Boulogne-Billancourt",
+    "investors": ["Seventure Partners"],
+    "date": "2026-11-20"
+  },
+  {
+    "company": "Qluster",
+    "amount": 4.7,
+    "sectors": ["Quantum Computing", "DeepTech"],
     "round": "Pre-Seed",
     "hq": "Paris",
-    "investors": ["Speedinvest", "Kima Ventures", "Purple", "OPRTRS Club", "Relics Ventures", "Source Ventures", "199 Ventures"],
-    "date": "2026-11-13"
+    "investors": ["Quantonation", "Quantum Launchpad", "Bpifrance"],
+    "date": "2026-11-20"
   },
   {
-    "company": "SolidUltra",
-    "amount": 3,
-    "sectors": ["DeepTech", "AI", "Semiconductors"],
+    "company": "Previsia",
+    "amount": 3.8,
+    "sectors": ["InsurTech", "AI", "SaaS"],
     "round": "Seed",
-    "hq": "Massy",
-    "investors": ["Watt & Well"],
-    "date": "2026-11-13"
+    "hq": "Toulouse",
+    "investors": ["IRDI", "ARIS"],
+    "date": "2026-11-20"
   },
   {
-    "company": "Namkin",
-    "amount": 1.5,
-    "sectors": ["AI", "MarTech", "SaaS", "IndustrialTech"],
-    "round": "Seed",
-    "hq": "Rosières-près-Troyes",
-    "investors": ["Hand Partners", "Bpifrance", "Caisse d'Épargne"],
-    "date": "2026-11-13"
-  },
-  {
-    "company": "Humbird",
-    "amount": 1.1,
-    "sectors": ["Mobility", "ClimateTech"],
+    "company": "Speeral",
+    "amount": 2.5,
+    "sectors": ["RetailTech", "AI", "SaaS"],
     "round": "Seed",
     "hq": "Nantes",
-    "investors": ["Samuel Berthelot", "Grégoire Germain"],
-    "date": "2026-11-13"
+    "investors": ["Kima Ventures", "Sonorcap", "Aquiti Ventures", "Atlantique Vendée Investissement", "Pays de la Loire Participations"],
+    "date": "2026-11-20"
+  },
+  {
+    "company": "Revio",
+    "amount": 2.5,
+    "sectors": ["Mobility", "AI", "SaaS"],
+    "round": "Seed",
+    "hq": "Paris",
+    "investors": ["ISAI", "Kima Ventures", "Business Angels"],
+    "date": "2026-11-20"
+  },
+  {
+    "company": "Kosme",
+    "amount": 1.1,
+    "sectors": ["HealthTech", "HRTech", "AI"],
+    "round": "Pre-Seed",
+    "hq": "Rennes",
+    "investors": ["MBA Mutuelle", "Alban Boyé", "Bpifrance"],
+    "date": "2026-11-20"
   }
 ]
